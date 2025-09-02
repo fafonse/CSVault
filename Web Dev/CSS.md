@@ -6,3 +6,7 @@ Super powerful tool to create nice looking websites with little overhead.
 - Styles are applied top to bottom, just like code
 - Tags have an increased priority over element styles
 - Can include images to add to the background n shit
+
+
+	For really great examples of the potential of CSS, check out [CSS Zen Garden](https://www.csszengarden.com)
+	
