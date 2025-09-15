@@ -1,0 +1,3 @@
+A shared codebase in git.
+
+Repositories can be hosted locally or remotely. Local repositories are good for version control in general, but their true power is unlocked when used with GitHub or another cloud git host. GitHub allows users to share repositories with programmers worldwide, letting you collaborate on codebases effectively with minimal conflict. You can also use GitHub personally, like to host notes or a website.
