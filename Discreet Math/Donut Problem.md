@@ -4,10 +4,9 @@
 ## Condition Types
 
 ### At least
-
-
+CR(n, b) -> CR(n, b/2)
 ### Exact match
-
+CR(n, b) -> CR(n-1, b)
 ### At most
 
 A bit more complicated.
@@ -16,3 +15,8 @@ A bit more complicated.
 2. Count the number of combinations that both have, and add them up
 3. Subtract that number from the number of unrestrained possibilities
 4. Boom, you got your At Most figure
+
+
+
+
+CR(6, 24)
