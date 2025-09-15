@@ -6,4 +6,8 @@
 6. Quartile 3
 7. Max
 
+These 5 numbers can summarize a set very well, and is standard.
+
+---
+
 > Related: [[Percentile and Quarters]], [[Measures of Center]]

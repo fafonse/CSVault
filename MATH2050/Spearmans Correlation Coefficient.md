@@ -13,4 +13,4 @@ $$
 	- $d_{i}$ is the difference between ranks
 
 
-> For linear relations, refer to [[Linear Correlation Coefficient|Pearsons Correlation Coefficient]]
+> For linear relations, refer to [[Pearson's Correlation Coefficient|Pearsons Correlation Coefficient]]
