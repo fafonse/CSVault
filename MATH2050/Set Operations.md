@@ -7,4 +7,4 @@
 - Mutually exclusive: $A \cap B = \emptyset$
 	- *A* and *B* never happen together
 
-> Use [[Venn Diagrams]] to visualize
+> Use [[Venn Diagrams]] to visualize, and for more check this [site](https://www.mathsisfun.com/sets/symbols.html)

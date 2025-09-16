@@ -15,7 +15,9 @@
 
 ## Basic Probability Properties
 - $0 \le P(A) \le 1$
+	- Probability is always read as between 0 and 1
 - $P(A) = 1 - P(A')$
+	- How to find the complement
 - If $A$ and $B$ mutually exclusive: $P(A\cap B) = 0$
 - Addition Rule: $P(A\cup B) = P(A) + P(B) - P(A\cap B)$
 - If mutually exclusive: $P(A) + P(B)$
