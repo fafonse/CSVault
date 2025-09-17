@@ -26,4 +26,4 @@ Pr(B|X,Y,Z) = \frac{[Pr(X|B)Pr(Y|B)Pr(Z|B)]*Pr(B)}{Pr(X)Pr(Y)Pr(B)}
 $$
 > When $Pr(X/Y/Z)$ is the same above and below, you can multiply it out, so it's just like a constant you multiply with the $Pr(B)$
 
-- When given continuous variabilities, segment them out into categories. Like chopping up continuous percentages into [[Percentile and Quarters|percentiles]].
+- When given continuous variabilities, segment them out into categories. Like chopping up continuous percentages into [[Percentile and Quarters|percentiles]]. Then you can just track those categories as separate outcomes.
