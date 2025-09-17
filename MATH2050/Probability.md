@@ -24,11 +24,12 @@
 
 ## Conditional Probability
 - Definition: $P(A|B) = P(A\cap B)/P(B), P(B)>0$
+	- Shows how $P(B)$ will affect $P(A)$
 - Useful: $P(A\cap B) = P(B) P(A|B)$
 	- What's the probability of A and B happening?
 		- i.e. what are the chances of two heads?
 	- Probability of B coming true, and the probability of A being true when you know B is true
 
 ## Joint Probability
-- For events A and B, ***joint probability*** Pr(A)
+- For events A and B, ***joint probability*** Pr(A and B)
 

@@ -1,6 +1,6 @@
 - A and B independent when adding more information/variables doesn't change the outcome
-- P(a ]cap B)
-- Mutually exclusive $ independent
+- $P(A\cap B)$
+- Mutually exclusive independent
 
 - Two events A and B are independent when
 	- $Pr(A\cap B) = Pr(A)Pr(B)$
