@@ -1,4 +1,4 @@
-Given a problem where theres a sequence of random characters, but one must be a certain option, how do you find the possible solutions?
+Given a problem where there's a sequence of random characters, but one must be a certain option, how do you find the possible solutions?
 
 > i.e given a 5 char string of ASCII characters, one must be an @ sign, how many possibilities are there?
 

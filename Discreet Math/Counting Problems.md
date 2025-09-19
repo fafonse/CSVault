@@ -13,10 +13,10 @@
 	- Way more "equal" sets
 
 
-## Example 1:
+## Example:
 > How many ways can we select a group of 3 students, out of 5 students, to stand in line for a picture.
-- Because its a picture, orders matters.
-- Because we can't have clones IRL, there is no repetition
+1. Because its a picture, orders matters.
+2. Because we can't have clones IRL, there is no repetition
 This is a regular **permutation** problem.
 
 Lets go through the choices one by one.
