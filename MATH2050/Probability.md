@@ -1,4 +1,4 @@
-> Quantified uncertainty
+> 	Quantified uncertainty
 
 ***Experiment***: toss a coin twice
 ***Sample space***: possible outcomes of an experiment
@@ -25,6 +25,7 @@
 ## Conditional Probability
 - Definition: $P(A|B) = P(A\cap B)/P(B), P(B)>0$
 	- Shows how $P(B)$ will affect $P(A)$
+	- P(B) given that P(A) is true
 - Useful: $P(A\cap B) = P(B) P(A|B)$
 	- What's the probability of A and B happening?
 		- i.e. what are the chances of two heads?
@@ -32,4 +33,6 @@
 
 ## Joint Probability
 - For events A and B, ***joint probability*** Pr(A and B)
+- $P(A \cap B) =  \frac{\text{\# of outcomes where both A and B occur}}{\text{Total \# of outcomes}}$
+
 

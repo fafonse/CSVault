@@ -21,9 +21,18 @@ $$
 1. Multiple variables, but all variables are equally important
 2. All variables are independent
 	- They can be correlated, but they can't be dependent on each other
-$$
-Pr(B|X,Y,Z) = \frac{[Pr(X|B)Pr(Y|B)Pr(Z|B)]*Pr(B)}{Pr(X)Pr(Y)Pr(B)}
-$$
-> When $Pr(X/Y/Z)$ is the same above and below, you can multiply it out, so it's just like a constant you multiply with the $Pr(B)$
 
-- When given continuous variabilities, segment them out into categories. Like chopping up continuous percentages into [[Percentile and Quarters|percentiles]]. Then you can just track those categories as separate outcomes.
+> [!example] How to do ts
+> 	Formula is a major bitch, so here's it without the greek
+> 1. Calculate [[Probability#Conditional Probability|conditionals]] for posterior and complement
+> 	- Calculate conditional probabilities for cases where target is met
+> 	- Calculate conditional probabilities for cases where target is **not** met
+> 2. Calculate the probabilities of the posterior and complement
+> 	1. Multiply all posterior conditionals and posterior probability 
+> 	2. Multiply all complement conditionals and complement probability
+> 3. Find the probability of your target case happening
+> 	- `overall_prob = yes_prob / (yes_prob + no_prob)`
+> 
+ 
+ 
+ - When given continuous variabilities, segment them out into categories. Like chopping up continuous percentages into [[Percentile and Quarters|percentiles]]. Then you can just track those categories as separate outcomes.

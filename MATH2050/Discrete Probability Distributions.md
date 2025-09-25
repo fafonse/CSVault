@@ -12,7 +12,7 @@
 	- Defined by $Bin(n, p)$
 		- Needs $n$ draws and the $p$ of success
 - Random variable $X$ stands for the number of times that there was success
-- Track the distribution on a [[PMF]] to find its likelyness
+- Track the distribution on a [[PMF]] to find its likeliness
 
 >[!info] Python Usage
 >```python
@@ -50,7 +50,3 @@
 	- The number of complaints on a given day follows $Poisson(\lambda=12)$
 - **Question**: What's the probability of tomorrow having less than 15 complaints?
 	- What's the probability of tomorrow having more than 15 complaints?
-
-```[!done] Answer
-
-```
