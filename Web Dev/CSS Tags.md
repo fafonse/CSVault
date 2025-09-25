@@ -7,12 +7,18 @@ Your primary way of forcing elements away from each other.
 ### Gap
 Sets gaps between elements in a box/container, does NOT include the border. Use margin for that instead.
 - `gap: [size]` - set gap
+
+### Z-index
+Sets the stacking order of elements. Higher values are displayed over lower ones. Only works on positioned elements.
+- `z-index: [x]` - set z-index to $x$
+	- You can use both negative and positive integers
+	- There are also some keywords: `auto`, `inherit`, `initial`, `unset`
 ### Border
 Adds a border to an element. Keep in mind that it surrounds the element, not the text. So double check element borders with the Inspect element.
 
 Style can be *dashed*, *dotted*, or *solid*
 
-`border: [size] [style] [color];`
+- `border: [size] [style] [color];`
 
 ### Flex Container
 Automatic grid/column grouping box. You can use it to automatically order elements evenly spaced out. Great for nav bars or other grid features.
@@ -59,7 +65,7 @@ Puts elements in div in a procedural way.
 #### Grid modifiers
 
 - `grid-row: x/y` - sets the element into $(x,y)$ in the grid, with 1/1 being the top left
-	- Messes up with the [[z-index]] and the order
+	- Messes up with the [[CSS Tags#Z-index|z-index]] and the order
 	- If you're moving shit around, try to keep it in the associated order in HTML
 		- Don't wanna mess with ordering bruh
 
