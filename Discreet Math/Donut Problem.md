@@ -4,14 +4,18 @@
 ## Condition Types:
 
 ### At least:
+*At least X of the choices must be chocolate donuts*
 $CR(n, b) \rightarrow CR(n, b/2)$
 ### Exact match:
-$CR(n, b) \rightarrow CR(n-1, b)$
+*X choices must be sprinkle donuts*
+$CR(n, b) \rightarrow CR(n-x, b)$
 ### At most
+*Up to 4 donuts can be glaze*
 A bit more complicated than the rest. We have to use the process of elimination for this.
 
 1. Find the *at least* and *exact match* conditions that are the "inverse" of the *at most* condition.
 2. Count the number of combinations that both have, and add them up
 3. Subtract that number from the number of unrestrained possibilities
 4. Now you have your number of restrained possibilities!
+
 This process is the same in approach as [[Removing Bad Choices]]. 

@@ -1,7 +1,3 @@
----
-aliases:
-  - PMF
----
 > A function of the possibility of certain outcomes.
 > Has a range of 0-1, and is continuous. Use to find likeliness of certain outcomes.
 
@@ -9,6 +5,7 @@ aliases:
 
 >[!info]
  Use **PMF** for discrete variables (digital) and **PDF** for continuous variables (analogue)
+
 - **Cumulative Distribution Functions**: probability of a certain outcome that falls within the cumulative possible answers
 	- Starts at 0, and always ends up at 1
 	- For a dice roll, your CDF(2) would be 1/6, since on average, you got a 1/6 chance

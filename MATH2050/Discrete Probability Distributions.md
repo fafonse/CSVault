@@ -12,7 +12,7 @@
 	- Defined by $Bin(n, p)$
 		- Needs $n$ draws and the $p$ of success
 - Random variable $X$ stands for the number of times that there was success
-- Track the distribution on a [[PMF]] to find its likeliness
+- Track the distribution on a [[Probability Mass Function|PMF]] to find its likeliness
 
 >[!info] Python Usage
 >```python
