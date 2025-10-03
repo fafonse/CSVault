@@ -1,5 +1,6 @@
 > A function of the possibility of certain outcomes.
 > Has a range of 0-1, and is continuous. Use to find likeliness of certain outcomes.
+> The inverse is the [[Percent-Point Function|percentile point function]].
 
 ![250](https://i.imgur.com/B7wn9Sb.png)
 

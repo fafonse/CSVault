@@ -16,7 +16,7 @@
 
 >[!info] Python Usage
 >```python
->import scipy.stats as stats
+>from scipy import stats
 >X = stats.binom(n, p) # x = random binomial var
 >X.pmf(X) # find probability of X successes in the binomial distribution
 >```
@@ -37,6 +37,7 @@
 >```python
 >import scipy.stats as stats
 >Y = stats.poisson(λ)
+>Y.pmf(X) # find probability of n == X
 >Y.cdf(X) # find the probability of n <= X occuring
 >p = 1-Y.cdf(15) # find p(n >= X) occuring
 >```

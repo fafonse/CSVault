@@ -18,6 +18,7 @@
 ### Python Usage
 Using `scipy`, you have to input the *rate*, not the *average*
  - In the example, the average is 2 minutes, while the rate is 0.5 per minute
+ - False, just do `scipy.stats.expon.cdf(x, scale)`, where scale is the time it takes and $x$ is where you want to sample from the graph.
 
 ## Normal Distribution
 - Most values are average, with few outliers
