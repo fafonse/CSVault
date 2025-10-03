@@ -19,6 +19,7 @@
 Using `scipy`, you have to input the *rate*, not the *average*
  - In the example, the average is 2 minutes, while the rate is 0.5 per minute
  - False, just do `scipy.stats.expon.cdf(x, scale)`, where scale is the time it takes and $x$ is where you want to sample from the graph.
+ - To find the *median*, do `stats.expon.ppf(0.5, scale)`, since the median is just the middle value
 
 ## Normal Distribution
 - Most values are average, with few outliers
