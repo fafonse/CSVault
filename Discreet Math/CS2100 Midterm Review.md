@@ -48,8 +48,8 @@ $20! / (5!)^4$, since we have $20!$ picks, but we need to order them into groups
 17. How many ways to choose 6 pieces for a chess game, where 3 are white and 3 are black and order doesn't matter. There must be exactly 1 white and black king on each side. They other pieces may repeat. 6 Kinds of pieces per color. 
 $CR(5, 2) + CR(5, 2)$ . We have one choice taken from each half, and we add them together. 
 
-18. Whats the chance that rolling 2 dice results in a sum of 5?
-
+18. What's the chance that rolling 2 dice results in a sum of 5?
+$4/36$. 
 
 19. Given a lottery of 4 digits, a small prize is awarded if exactly 3 digits are matched. 
 $(4*9)/10^4$. We can pick one of the 4 digits to get wrong, and it can be one of 9 choices, since 9/10 numbers are wrong and 1/10 are right. We divide by the total choices to get a probability.
