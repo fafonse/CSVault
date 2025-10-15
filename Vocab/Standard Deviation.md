@@ -3,4 +3,4 @@ $$
 $$
 The average distance that the data *deviates* from the mean of the dataset.
 
-We ain't doing all of this, so instead we can get `numpy` to do it for us with `STD = np.std(dataset)`.
+> This formula is used for sampling from the whole *population*, if you're working with *samples*, use the [[T Distribution|t-distribution]].
