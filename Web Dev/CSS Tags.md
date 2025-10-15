@@ -3,7 +3,16 @@ Your primary way of forcing elements away from each other.
 - `margin: [size];` - set margin
 - There's also side specific variations:
 	- `margin-right`, `margin-left`, `margin-up`, `margin-down`
-
+### Padding
+Your primary way of forcing elements closer together (not margin).
+Also use to increase the "button" size of clickable links. Great for mobile accessibility.
+- `padding: [size];` - set padding
+- There's also side specific variations:
+	- `padding-right`, `padding-left`, `padding-up`, `padding-down`
+### Color
+Sets the color of the text/element selected.
+- `color: [color]` - set color
+- You can input basically any form of color, there's even a couple built-ins that you can use with just a name
 ### Gap
 Sets gaps between elements in a box/container, does NOT include the border. Use margin for that instead.
 - `gap: [size]` - set gap
@@ -24,12 +33,12 @@ Style can be *dashed*, *dotted*, or *solid*
 Automatic grid/column grouping box. You can use it to automatically order elements evenly spaced out. Great for nav bars or other grid features.
 
 - `display: flex` - Sets element to use display box
-- `flex-direction`
+- `flex-direction` - aligns all changes on an axis
 - `justify-content: [align];` - Moves content between `flex-end` and `flex-start`
 	- Use `flex-end` and `flex-start` so it works no matter the `flex-direction`
 	- `space-between` adds as much space between elements as possible, no border margin
 	- `space-around` makes sure that there's space around elements (border included)
-	- `space-even` 
+	- `space-even` equalizes space in between elements
 - `align-items: [align];` - aligns the against the flex direction
 
 ### Float
@@ -78,3 +87,26 @@ Puts elements in div in a procedural way.
 > 	- It will still span over the number you set, just modifies the grid to accommodate
 
 
+
+# Special Tags/Modifiers
+## Important
+Forces the CSS to have priority over all else. Good for overwriting HTML CSS snippets, but you shouldn't really be doing that anyways.
+ `css-tag: [param] !important`
+
+>When you have too many `!important` modifiers, it can lead to *important wars*, where a majority of the CSS requires the modifier because you fucked up the CSS/HTML priority.
+
+## Media Queries
+Ask about the device, letting you determine a user's platform.
+Works like an if statement, but a lot more sucky. 
+Has higher priority only if its on the bottom the CSS or has a higher specificity.
+#### code example
+```css
+@media (tag: param) {
+	insert tags here
+}
+```
+
+### Tags
+- `hover` - Checks if the device can hover over stuff (mobile can't)
+- `prefers-color-scheme` - Checks the user's preferred colors. Usually light or dark mode
+- `max-width` - Width of the user's screen

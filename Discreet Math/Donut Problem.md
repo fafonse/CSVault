@@ -5,10 +5,10 @@
 
 ### At least:
 *At least X of the choices must be chocolate donuts*
-$CR(n, b) \rightarrow CR(n, b/2)$
+$CR(n, r) \rightarrow CR(n + r - X - 1, r - X)$
 ### Exact match:
-*X choices must be sprinkle donuts*
-$CR(n, b) \rightarrow CR(n-x, b)$
+*$X$ choices must be sprinkle donuts*
+$CR(n, r) \rightarrow CR(n-x, r)$
 ### At most
 *Up to 4 donuts can be glaze*
 A bit more complicated than the rest. We have to use the process of elimination for this.
