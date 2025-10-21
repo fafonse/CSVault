@@ -1,6 +1,7 @@
 ## iframe
 `<iframe src="url" width="x" height="y">`
 - Horrible for SEO
+	- Crawlers can't look inside iframes
 
 
 ## Meta Tags
