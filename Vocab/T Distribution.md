@@ -9,5 +9,20 @@ Parameters:
 - $s=$  sample standard deviation
 - $n=$ sample size
 
+## Two Sample Variation
+$$
+t=\frac{\overline{x}_{1} - \overline{x}_{2}}{SE}
+$$
+What the Standard Error $SE$ is depends on your sampling.
 
-> For population standard deviation, use the [[Standard Deviation|regular formula]].
+### Different Groups
+Use Welch's T-test
+
+### Same Groups (Paired-Sample)
+Same individuals, just measured twice.
+Compute the differences, then do a one-sample t test using that difference.
+
+$$
+t=\frac{\overline{d}}{s_{d}/\sqrt{n}}
+$$
+$S_{d}$ stands for the standard deviation of the differences
