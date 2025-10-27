@@ -21,9 +21,9 @@ This just means that you can represent any integer in any base. AKA, you can rep
 > Base-2 (Binary): $23 = 1*2^4 + 0*2^3 + 1*2^2 +1*2^1 + 1*2^0$ (10111)
 > Base-3: $23 = 2*3^2 + 3^1 + 2$
 
-### Finding the extension
-1. Divide your number by your base and find the remainder
-2. Divide your quotient by your base and repeat until your quotient is 0
+### Converting from Base10
+1. Divide your number ($n$) by your base ($b$) and find the remainder
+2. Divide your quotient ($q$) by $b$ and repeat until $q=0$
 3. The answer is the column of remainders
 
 $753_{10} \rightarrow 753_{2} = 1000111101$
@@ -38,3 +38,29 @@ $11 = 2 * 5 + 1$
 $5 = 2 * 2 + 1$
 $2 = 2 * 1 + 0$
 $1 = 2 *0 + 1$
+
+### Converting to Base10
+Using Horner's method, we can convert to base10 with as few multiplication as possible.
+
+```python
+def toBase10(s, alphabet): # this works for base16, using strings
+b = len(alphabet)
+x = 0
+for c in s:
+	index = s.find(c)
+	x = x * b + index
+return x
+```
+
+Starting left to right, we begin with the first number. For demonstration, I'll convert $1202_{3} \rightarrow 1202_{10}$.
+
+1. Start with the first number (1)
+2. Multiply by the base and add the next digit
+	- $1 * 3 + 2 = 5$
+3. Use that old number and repeat until you reach the end
+	- ($5 * 3 + 0 = 15$)
+
+### Long Addition/Division/Multiplication
+
+#### Addition
+Works the same as it did in elementary, just carry the one with your limit as your base $b$.
