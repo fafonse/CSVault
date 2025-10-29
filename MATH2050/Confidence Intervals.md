@@ -1,8 +1,8 @@
 1. Compute the sample [[Measures of Center|mean]] and [[Standard Deviation|standard deviation]].
 2. Use a distribution to find the margin of error
 	- $MOE=t*(\sigma / \sqrt{n})$
-	- Use [[t-distribution]] if sample size is 30-50 big
-		- For $t$, use the [[Percent-Point Function|PPF]] at $x= (1- \frac{\alpha}{2})$, which give the $t$ critical value, and include `df=len(sample)-1`
+	- Use [[T Distribution|t-distribution]] if sample size is 30-50 big
+		- For $t$, use the [[Percent-Point Function|PPF]] at $x= (1- \frac{\alpha}{2})$, which gives the $t$ critical value, and include `df=len(sample)-1`
 	- Use [[Discrete Probability Distributions#Binomial|binomial]] distribution if the outputs are binary (1 or 0)
 		- You need the [[Point Estimate|point estimate]] of the variable and the *mean*.
 		- Find the critical z-value

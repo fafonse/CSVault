@@ -1,6 +1,6 @@
 *Analysis of Variance*
 
-A method that determines if the means of 2+ populations are the same.
+A method that determines if the means of 2+ populations are the same. Way easier than doing several [[Hypothesis Testing#Two Sample Testing|two sampled]] tests for every pair.
 
 
 ## Construction
@@ -13,7 +13,7 @@ A method that determines if the means of 2+ populations are the same.
 
 ### Hypothesis Building
 **Hypotheses:**
-$H_{a}$: at least one mean is different (AKA not all means are equal)
+$H_{a}$: at least one mean is different (AKA not all means are equal)[^1]
 $H_{n}$: all means are equal
 
 **Test Statistic:**
@@ -53,9 +53,15 @@ anova_table = sm.stats.anova_lm(model, typ=2)
 ```
 
 
-### Res
+### Tukey Method
+
+Used for multiple comparison of means, showing which allows you to get more specific and find how different the individual means are from each other. 
+
+Lets you find if $\mu_{1} \neq \mu_{3}$ instead of finding if $\mu_{1} \neq \mu_{2} \neq \mu_{3}$
 ```python
 res = stat()
-res.turkey_hsd(df=df_melt,res_var='value',xfac_var='treatements',anova_model='diff ~ C(Diet)')
-res.tureky_summary()
+res.tukey_hsd(df=df_melt,res_var='value',xfac_var='treatements',anova_model='diff ~ C(Diet)')
+res.tukey_summary()
 ```
+
+[^1]: ANOVA is considered [[Hypothesis Testing#Two Sample Testing|two-tailed]]
