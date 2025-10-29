@@ -9,7 +9,7 @@ $a \equiv b = (a \pmod m = b \pmod m)$
 	- $(12 \equiv 27) \pmod 5$, therefore $(27 - 12 )| 5$
 2. Let $m$ be a positive integer, $a$ and $b$ are only congruent if there is an integer $k$ such that $a = b + km$.
 
-## Integer Representations
+## Changing Bases
 
 Given any integer $n$, you can represent it as a sum of $x = a_{k}b^k + a_{k-1}b^k-1 + ... + a_{1}b + a_{0}$.
 In this case, we call it ***base $b$ expansion of $n$***. We don't call it anything special for base 10, as that's the default for most math.
@@ -60,7 +60,50 @@ Starting left to right, we begin with the first number. For demonstration, I'll 
 3. Use that old number and repeat until you reach the end
 	- ($5 * 3 + 0 = 15$)
 
-### Long Addition/Division/Multiplication
+### Long Division/Multiplication
 
-#### Addition
-Works the same as it did in elementary, just carry the one with your limit as your base $b$.
+#### Multiplication
+
+The same as regular long multiplication, but when you have to carry over a number, convert that number to it's extension in base $b$. Then long add all the other bits together.
+
+
+## Basic Math Algorithms
+
+### Multiplication
+
+A general long multiplication algorithm takes $O(N^2)$, while there's another one that takes $O(N^{1.585})$. However that one has a shit ton of overhead that only makes it viable with extremely long digit counts.
+
+> For multiplication algorithms, keep in mind that $N$ can mean either the length of digits, or the actual integer size of the product/divisor
+
+
+### Division
+
+Stick to grade school long division. Algorithm recommended by book is hot dogshit.
+
+### Exponential
+$512^{644}\mod645$
+
+Instead of finding $512^{644}$, we do little steps at a time and mod by 645 as we do each step.
+This only works if we're doing exponential then immediately after modulus.
+
+`pow(512, 644, 645)` - Use the built-in python function, and add your mod as a third parameter
+
+## Prime Numbers
+
+### Theorems
+
+1. Every number can be written as a product of it's primes.
+	$12 = 2 * 2 * 3$
+
+### Algorithms
+
+#### Finding Prime Factors
+1. Divide by the smallest prime number first (usually 2)
+2. Divide by that number as much as possible, then move to the next smallest prime
+
+> [!example]
+> $72 = 2 * 36$ 
+> $72 = 2 * 2 * 18$
+> $72 = 2 * 2 * 2 * 9$
+> $72 = 2 * 2 * 2 * 3 * 3$
+> $72 = 2 * 2 * 2 * 3 * 3 * 1$
