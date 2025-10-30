@@ -19,18 +19,21 @@ HTML tables are useful for grouping up information together, but it doesn't disp
 ```html
 <table>
 	<thead>
-	<tr>
-		<th>Category</th>
-		<th>$$$</th>
-		<th>Rating</th>
-	</tr>
+		<tr> // single row
+			<th>Category</th>
+			<th>$$$</th>
+			<th>Rating</th>
+		</tr>
 	</thead>
 	<tbody>
-	<td>Chocolate</td>
-	<td>Peanut Butter</td>
-	</tbod>
+		<tr>
+			<td>Chocolate</td>
+			<td>Peanut Butter</td>
+		</tr>
+	</tbody>
 	<tfoot>
 	</tfoot>
+</table>
 ```
 
 
