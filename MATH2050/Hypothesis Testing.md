@@ -1,4 +1,6 @@
 
+The way to compare your data against another number/more data. Informs the way to build a proper [[Hypothesis|hypothesis]].
+
 $H_{n} =$ The complement of your hypothesis. When your $H_{u}$ is wrong, your $H_{n}$ must be right.
 $H_{a}$ = What you're trying to prove. Like your actual hypothesis
 
