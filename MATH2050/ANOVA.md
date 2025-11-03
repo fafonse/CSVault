@@ -41,7 +41,7 @@ $F = \frac{\text{between group variance}}{\text{within group variance}}$
 		- `add_column(col[a] - col[b])`
 2. Select a model
 
-### Ordinary Least Squares (OLS)
+### [[Ordinary Least Squares|Ordinary Least Squares (OLS)]]
 ```python
 import statsmodels.api as sm
 from statsmodels.formula.api import ols

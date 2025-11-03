@@ -2,23 +2,24 @@ An algorithm that determines if a number is prime or not over [[Monte Carlo Prob
 
 When it says yes, its 75% certain. In order to make sure that the number is prime, we can just run the test a lot to reduce the chance of error.
 
+
 ## Method
 
 
 ```python
 from random import randint
 
-def Miller(n):
+def Miller(n): # n > 2
     t = n - 1
     s = 0
     while t % 2 == 0: # while t is odd
         t = t // 2
         s += 1
     b = randint(2, n-1)
-    # Tests now
-    if pow(b, t, n) == 1:
+    
+    if pow(b, t, n) == 1: # test 1
         return True
-    for j in range(s):
+    for j in range(s): # test 2
         if pow(b, (pow(2, j) * t), n) == n-1:
             return True
     return False
