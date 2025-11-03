@@ -6,7 +6,22 @@ When it says yes, its 75% certain. In order to make sure that the number is prim
 
 
 ```python
-def Miller(n): # False - 100% not prime, True - 75% prime chance
+from random import randint
+
+def Miller(n):
+    t = n - 1
+    s = 0
+    while t % 2 == 0: # while t is odd
+        t = t // 2
+        s += 1
+    b = randint(2, n-1)
+    # Tests now
+    if pow(b, t, n) == 1:
+        return True
+    for j in range(s):
+        if pow(b, (pow(2, j) * t), n) == n-1:
+            return True
+    return False
 ```
 
 Repeating the algorithm 20x leads to a failure chance of $\frac{1}{4}^{20}$, or less than 1 in a trillion chance of failure.
