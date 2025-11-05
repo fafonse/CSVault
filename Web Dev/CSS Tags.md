@@ -1,10 +1,11 @@
 ### Margin
-Your primary way of forcing elements away from each other. 
+Your primary way of forcing elements away from each other.  Think of it as a magnetic field around the element.
 - `margin: [size];` - set margin
 - There's also side specific variations:
 	- `margin-right`, `margin-left`, `margin-up`, `margin-down`
 ### Padding
 Your primary way of forcing elements closer together (not margin).
+Think of it like adding stuffing to a teddy bear, all padding stays within the element.
 Also use to increase the "button" size of clickable links. Great for mobile accessibility.
 - `padding: [size];` - set padding
 - There's also side specific variations:
@@ -53,11 +54,30 @@ Add lerp to any tag, use with pseudo selectors to smooth out any interactions.
 	- Time is how long it takes to transition
 	- Easing styles can be `ease-in-out`, `bounce`
 
+If you want to pair with a [[Pseudo Selectors|pseudo selector]], you can always transition back to your default element state by adding it into the element's normal CSS.
+
+#### Example
+```CSS
+h1 {
+	transform: scale(1);
+	transition: transform 5s; /*LERP back to your 1.0 scale */
+}
+
+h1:hover {
+	transform: scale(1.5)
+	transition: transform 5s; /*LERP to a 1.5x scale */
+}
+```
+
 ### Transform
-Transform your elements, with size/rotation/translation.
+Transform your elements, with size/rotation/translation. Most useful for [[Pseudo Selectors|dynamic transitions]] in your site.
 
 - `transform: [transforms]` - scale/rotate your element
 	- `scale(x)` - size by a factor
+	- `rotate(xdeg)` - Scale by *x* degrees
+		- 12 degrees would be `12deg`
+		- You can also do negative degrees
+	- `translate(x)` - Move the element around the screen
 
 ### Grid
 Puts elements in div in a procedural way.
