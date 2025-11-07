@@ -24,7 +24,7 @@ $H_{0}: b=0$
 $H_{1}: b \neq 0$
 
 ### Homoscedasticity
-The condition that the [[White Noise|white noise]] ($\epsilon$) amount doesn't change as $X_{i}$ changes. A violation of  this assumption is pretty bad so we gotta check for it.
+The condition that the [[White Noise|white noise]] ($\epsilon$) amount doesn't change as $X_{i}$ changes. A violation of this assumption is pretty bad so we gotta check for it.
 
 We can do this by just drawing a scatter plot with our line of fit. If the point deviation increases as $X_{i}$ changes, we can assume that we do not have Homoscedasticity.
 
