@@ -23,15 +23,21 @@ For, $y=mx + b + \epsilon$:
 $H_{0}: b=0$
 $H_{1}: b \neq 0$
 
-### Homoscedasticity
+### Verifying Models
+
+#### Homoscedasticity
 The condition that the [[White Noise|white noise]] ($\epsilon$) amount doesn't change as $X_{i}$ changes. A violation of this assumption is pretty bad so we gotta check for it.
 
 We can do this by just drawing a scatter plot with our line of fit. If the point deviation increases as $X_{i}$ changes, we can assume that we do not have Homoscedasticity.
 
-### Linearity
-We look at a regression plot
 
-### Normality
+#### Linearity
+
+Linearity assumes that the error is linear and doesn't curve when plotted. You can check this with the same residual scatter plot as homoscedasticity.
+
+![[Pasted image 20251108152738.png]]`
+
+#### Normality
 Use a [[Q-Q Plot|Q-Q plot]] of the errors to make sure that the errors are [[Continuous Probability Distributions#Normal Distribution|normally distributed]]. If it isn't normally distributed we transform $Y_{i}$ based on what type of deviation it is.
 If it's a right-skew use $log()$, $\sqrt{()}$, $\frac{1}{r}$ transformations.
 If it's a left-skew use $r^2$ or $exp()$
