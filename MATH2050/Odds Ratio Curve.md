@@ -1,0 +1,1 @@
+Also known as the **OR Curve**, it shows how your odds change (y axis) with a change in your predictor variable. Usually has a $y=x$ line to compare your dataset odds against completely fair odds (50/50).
