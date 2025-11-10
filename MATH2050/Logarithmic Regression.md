@@ -17,6 +17,7 @@ The [[Generalized Linear Model|link function]] that connects $\eta$ to $p$.
 There's a lot of options, but the most commonly used is the logit function.
 $$\text{logit}(p) = \log{\frac{p}{1 - p}}, \text{ for } 0\leq p\leq 1$$
 The logit function takes a value between 0 and 1 and maps it to a value between $(-\infty, \infty)$
+The little bit that is $\frac{p}{1-p}$ is your *odds ratio*, which you can graph with a [[Odds Ratio Curve|OR curve]].
 
 Here's the inverse of that:
 $$g^{-1}(x) = \frac{exp(x)}{1 + exp(x)} = \frac{1}{1 + exp(-x)}$$
