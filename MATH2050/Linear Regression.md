@@ -43,6 +43,12 @@ If it's a right-skew use $log()$, $\sqrt{()}$, $\frac{1}{r}$ transformations.
 If it's a left-skew use $r^2$ or $exp()$
 
 
+
+### Testing the Model
+In this case $y_{p}$ is our predicted data and $y_{o}$ is the original data.
+
+Mean Absolute Error: $\frac{\sum{}|y_{p} - y_{o}|}{n}$
+
 ## Multiple
 
 As you add multiple values to your linear regression, your $R^2$ increases as you gain more information. Even if your added predictor variable has no correlation to the response variable, then your $R^2$ increases anyways.
@@ -72,6 +78,7 @@ When using categorical variables (i.e fire type, water, ground, etc) we must cha
 There are two main methods:
 1. [[Dummy Variable|Dummy Variables]]
 	- Turning categories into Boolean columns
+	- Don't make them real 
 
 ### Missing Data
-i fucking hate this lecturer he's so unbelievably fucking shit at his job
+For categorical data, make sure to use the `drop_first=True` argument to ensure that missing data doesn't taint the good data.
