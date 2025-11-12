@@ -1,4 +1,6 @@
+A regression used when your response variable is continuous and your predictor variables are not correlated with each other.
 
+> If your data has a *binary* response variable, then use a [[Logarithmic Regression]]
 ## Simple
 Two different variables, $x$ and $y$. One independent, one dependent. Using correlations we try to see if there's any [[Continuous Probability Distributions|patterns]] between the variables. 
 
@@ -82,3 +84,76 @@ There are two main methods:
 
 ### Missing Data
 For categorical data, make sure to use the `drop_first=True` argument to ensure that missing data doesn't taint the good data.
+
+### Example Code
+
+```python
+import pandas as pd
+import numpy as np
+import scipy.stats as stat
+import matplotlib.pyplot as plt
+import seaborn as sns
+import statsmodels.api as smf
+from statsmodels.formula.api import ols
+
+df = pd.read_csv("datasets/advertising.csv")
+
+# find correlation
+print(df.corr())
+
+# Since TV and sales have high correlation, we set the vars
+x = df[["TV", "Newspaper", "Radio"]]  # independent variables
+y = df.TV  # dependent
+
+# We can't graph this because we're working with 4D graphs (impossible to view lol)
+# plt.scatter(x, y)
+# plt.show()
+
+# add a constant column cause we need it for some fucking reason
+# add a ton of 1's so that we can predict b
+# y = mx + nb, where n is what we're finding
+# the model just needs something there to predict
+x = smf.add_constant(x)  # This just adds a column of 1's
+
+model = smf.OLS(x, y).fit()
+
+print(model.summary())
+# Take the coeff column and use that as your coefficients for your linear regression
+# There will be errors
+# Sales = 4.67 + 0.0544*TV + 0.0003*Newspaper + 0.1070*Radio
+# R-squared is your accuracy rating (.903 or 90.3% accuracy)
+
+# Now we have to find if all the variables need to be weighted
+# We use the P values (P>|t|)
+# For each value H{n}: val == 0 / H{a}: val != 0
+# If they're small, then we can assume that it matters
+# If they're over our alpha then we disregard it (it doesn't significantly matter)
+
+predictions = model.predict(x)  # predict based off our model using an X
+
+dataF = {"pred": predictions, "y": y}
+dataF = pd.DataFrame(dataF)
+
+# We shouldn't see any patterns in this plot (homoscedasticity)
+# The positive and negative errors should cancel out close to 0
+dataF["errors"] = dataF.y - dataF.pred  # calculate errors from model
+
+plt.scatter(x.TV, dataF.errors)  # linearity
+plt.show()
+
+# qqplot
+smf.qqplot(
+    dataF.errors
+)  # since this is pretty linear, we can assume a normal distribution of errors
+plt.show()
+
+print(
+    model.predict([1, 10])
+)  # start at 1, says that if you make $10k in sales, how many tv's can you sell
+# Sold 7.53 TV's
+# You can get very insane numbers if you use super large numbers
+
+# since we also don't see any outliers, we don't worry about those
+
+# Sales = 6.67 + 0.0555 * TV
+```

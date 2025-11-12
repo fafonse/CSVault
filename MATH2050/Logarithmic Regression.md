@@ -1,5 +1,6 @@
 A [[Generalized Linear Model|GLM]] used to model a [[Discrete Probability Distributions#Binomial|binary]] categorical variable using numerical and categorical predictors. 
 
+> When you have >2 categories for your results, you need to use a multinomial logistic regression model.
 ## Example
 
 In this example, we'll look at the [donner party](https://en.wikipedia.org/wiki/Donner_Party), where out of 87 pioneers, 40 of them died.
@@ -14,7 +15,7 @@ Using our link function, we can find our $p$ of survival. Below 0.5 results in d
 
 ## Logit Function
 The [[Generalized Linear Model|link function]] that connects $\eta$ to $p$.
-There's a lot of options, but the most commonly used is the logit function.
+There's a lot of options, but the most commonly used is the logit function. The function is just the log of the [[Odds Ratio|odds ratio]].
 $$\text{logit}(p) = \log{\frac{p}{1 - p}}, \text{ for } 0\leq p\leq 1$$
 The logit function takes a value between 0 and 1 and maps it to a value between $(-\infty, \infty)$
 The little bit that is $\frac{p}{1-p}$ is your *odds ratio*, which you can graph with a [[Odds Ratio Curve|OR curve]].
@@ -22,3 +23,9 @@ The little bit that is $\frac{p}{1-p}$ is your *odds ratio*, which you can graph
 Here's the inverse of that:
 $$g^{-1}(x) = \frac{exp(x)}{1 + exp(x)} = \frac{1}{1 + exp(-x)}$$
 The inverse logit function takes a value between $(-\infty, \infty)$ and converts it to a binary result.
+
+## Analyzing Results
+The $p$ value in a logarithmic regression has a range of 0-1, where 1 means that there's a 100% chance of success and 0 means failure. When you have a binary response variable, any value above 0.5 is considered a success. 
+To evaluate model accuracy, we don't have an $R^2$, but instead a pseudo-$R^2$. It's not really the same, but it lets you compare to a linear model if needed. You mostly evalulate accuracy based off the model [[Sensitivity and Specificity]].
+
+However it's important to note that the probability threshold changes based off the application. i.e, with cancer patients you want to minimize the amount of false positives, so you want your threshold to be higher.
