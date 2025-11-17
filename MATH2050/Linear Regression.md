@@ -11,7 +11,7 @@ Two different variables, $x$ and $y$. One independent, one dependent. Using corr
 2. $Y_{i}$ is related to $X_{i}$ by the following [[Pearson's Correlation Coefficient|linear relationship]]
 	- $Y_{i} = \theta_{0} + \theta_{1}X_{i} + e_{i}$
 ### Determining the Best Line
-When finding the line of best fit, we can just find which line has the least deviation from the points. What we can do is just get the sum of differences (*residuals*) from the line and square/absolute that to find the total difference.
+When finding the line of best fit, we can just find which line has the least deviation from the points. What we can do is just get the [[Residuals|residuals]] from the line and square/absolute that to find the total difference.
 
 We want our difference to get as close to 0 as possible.
 
@@ -35,7 +35,7 @@ We can do this by just drawing a scatter plot with our line of fit. If the point
 
 #### Linearity
 
-Linearity assumes that the error is linear and doesn't curve when plotted. You can check this with the same residual scatter plot as homoscedasticity.
+Linearity assumes that the error is linear and doesn't curve when plotted. You can check this with the same [[Residuals|residual]] scatter plot as homoscedasticity.
 
 ![[Pasted image 20251108152738.png]]`
 
