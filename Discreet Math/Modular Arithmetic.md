@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 Arithmetic using [[Number Theory|integers]] and *modulus* (%).
 
-> Check [[Prime Numbers|here]] for info on prime numbers
-=======
-Math done using modulus and a lot of integers. Closely related to [[Number Theory]].
-
-> For the inverse of modulus, look at [[Inverse Modulus|this page]].
->>>>>>> origin/main
 ## Congruency
 
 When two numbers *a* and *b* have the same result with $mod m$ 
@@ -17,6 +10,7 @@ $a \equiv b = (a \pmod m = b \pmod m)$
 	- $(12 \equiv 27) \pmod 5$, therefore $(27 - 12 )| 5$
 2. Let $m$ be a positive integer, $a$ and $b$ are only congruent if there is an integer $k$ such that $a = b + km$.
 
+> For the inverse of modulus, look at [[Inverse Modulus|this page]].
 ## Changing Bases
 
 Given any integer $n$, you can represent it as a sum of $x = a_{k}b^k + a_{k-1}b^k-1 + ... + a_{1}b + a_{0}$.

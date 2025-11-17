@@ -44,4 +44,3 @@ Viola! Look back at the question, and $d$ is right in front of your eyes! Carefu
 ## Fermat's Little Theorem
 #todo
 This method is best for programming, as it can be done easily with computers.
->>>>>>> origin/main
