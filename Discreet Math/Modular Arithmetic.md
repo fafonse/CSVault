@@ -1,4 +1,6 @@
+Math done using modulus and a lot of integers. Closely related to [[Number Theory]].
 
+> For the inverse of modulus, look at [[Inverse Modulus|this page]].
 ## Congruency
 
 When two numbers *a* and *b* have the same result with $mod m$ 
@@ -88,22 +90,3 @@ This only works if we're doing exponential then immediately after modulus.
 
 `pow(512, 644, 645)` - Use the built-in python function, and add your mod as a third parameter
 
-## Prime Numbers
-
-### Theorems
-
-1. Every number can be written as a product of it's primes.
-	$12 = 2 * 2 * 3$
-
-### Algorithms
-
-#### Finding Prime Factors
-1. Divide by the smallest prime number first (usually 2)
-2. Divide by that number as much as possible, then move to the next smallest prime
-
-> [!example]
-> $72 = 2 * 36$ 
-> $72 = 2 * 2 * 18$
-> $72 = 2 * 2 * 2 * 9$
-> $72 = 2 * 2 * 2 * 3 * 3$
-> $72 = 2 * 2 * 2 * 3 * 3 * 1$
