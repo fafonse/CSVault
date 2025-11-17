@@ -1,4 +1,6 @@
+Arithmetic using [[Number Theory|integers]] and *modulus* (%).
 
+> Check [[Prime Numbers|here]] for info on prime numbers
 ## Congruency
 
 When two numbers *a* and *b* have the same result with $mod m$ 
@@ -16,7 +18,7 @@ In this case, we call it ***base $b$ expansion of $n$***. We don't call it anyth
 
 This just means that you can represent any integer in any base. AKA, you can represent any integer in base-2 (binary), base-10, or hex (base-16). 
 
-> Example with 23
+> [!example] Example with 23
 > Base-10: $23 = 2*10^1 + 3*10^0$
 > Base-2 (Binary): $23 = 1*2^4 + 0*2^3 + 1*2^2 +1*2^1 + 1*2^0$ (10111)
 > Base-3: $23 = 2*3^2 + 3^1 + 2$
@@ -26,20 +28,31 @@ This just means that you can represent any integer in any base. AKA, you can rep
 2. Divide your quotient ($q$) by $b$ and repeat until $q=0$
 3. The answer is the column of remainders
 
-$753_{10} \rightarrow 753_{2} = 1000111101$
-
-$753 = 2 * 376 + 1$
-$376 = 2*188 + 0$
-$188 = 2*94 + 0$
-$94 = 2 *47 + 0$
-$47 = 2 * 23 + 1$
-$23 = 2 *11 + 1$
-$11 = 2 * 5 + 1$
-$5 = 2 * 2 + 1$
-$2 = 2 * 1 + 0$
-$1 = 2 *0 + 1$
+> [!EXAMPLE]
+> $753_{10} \rightarrow 753_{2} = 1000111101$
+> 
+> $753 = 2 * 376 + 1$
+> $376 = 2*188 + 0$
+> $188 = 2*94 + 0$
+> $94 = 2 *47 + 0$
+> $47 = 2 * 23 + 1$
+> $23 = 2 *11 + 1$
+> $11 = 2 * 5 + 1$
+> $5 = 2 * 2 + 1$
+> $2 = 2 * 1 + 0$
+> $1 = 2 *0 + 1$
 
 ### Converting to Base10
+
+There's a really easy way if you're doing it done and dirty. Just multiply each digit by $b^n$, with $n$ being the significance of the digit.
+
+>[!EXAMPLE] Converting base 3 to base 10
+>$1202_3 \rightarrow 1202_{10}$
+>$1202_{10} = (2 * 3^0) + (0*3^1) + (2*3^2) + (1*3^3)$
+>$1202_{10} = 2 + 0 + 18 + 27$
+>$1202_{10} = 47$
+
+#### Horner's method
 Using Horner's method, we can convert to base10 with as few multiplication as possible.
 
 ```python
@@ -87,23 +100,3 @@ Instead of finding $512^{644}$, we do little steps at a time and mod by 645 as w
 This only works if we're doing exponential then immediately after modulus.
 
 `pow(512, 644, 645)` - Use the built-in python function, and add your mod as a third parameter
-
-## Prime Numbers
-
-### Theorems
-
-1. Every number can be written as a product of it's primes.
-	$12 = 2 * 2 * 3$
-
-### Algorithms
-
-#### Finding Prime Factors
-1. Divide by the smallest prime number first (usually 2)
-2. Divide by that number as much as possible, then move to the next smallest prime
-
-> [!example]
-> $72 = 2 * 36$ 
-> $72 = 2 * 2 * 18$
-> $72 = 2 * 2 * 2 * 9$
-> $72 = 2 * 2 * 2 * 3 * 3$
-> $72 = 2 * 2 * 2 * 3 * 3 * 1$
