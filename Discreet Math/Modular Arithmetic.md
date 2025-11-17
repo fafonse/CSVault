@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Arithmetic using [[Number Theory|integers]] and *modulus* (%).
 
 > Check [[Prime Numbers|here]] for info on prime numbers
+=======
+Math done using modulus and a lot of integers. Closely related to [[Number Theory]].
+
+> For the inverse of modulus, look at [[Inverse Modulus|this page]].
+>>>>>>> origin/main
 ## Congruency
 
 When two numbers *a* and *b* have the same result with $mod m$ 
