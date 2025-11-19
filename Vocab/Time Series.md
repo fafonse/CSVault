@@ -31,6 +31,7 @@ A series is stationary if...
 - [[Measures of Center|Mean]] is constant over time
 - [[Standard Deviation|Variance]] is constant over time
 - No trend or seasonality
+> Basically your trend line is stationary if it's trendline is a flat line
 
 There are a couple methods to check:
 - Look at plot
