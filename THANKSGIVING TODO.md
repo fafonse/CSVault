@@ -12,4 +12,4 @@
 	4. Add weighting
 	5.  Use elastic net
 4. Check email for RSA assignment
-5. Work on github
+5. Work on legionaries
