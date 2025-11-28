@@ -1,6 +1,6 @@
 A regression used when your response variable is continuous and your predictor variables are not correlated with each other.
 
-> If your data has a *binary* response variable, then use a [[Logarithmic Regression]]
+> If your data has a *binary* response variable, then use a [[CS Notes/MATH2050/Logarithmic Regression]]
 ## Simple
 Two different variables, $x$ and $y$. One independent, one dependent. Using correlations we try to see if there's any [[Continuous Probability Distributions|patterns]] between the variables. 
 

@@ -1,1 +1,1 @@
-A visual way of representing [[Logarithmic Regression]] [[Sensitivity and Specificity|accuracy]]. A more accurate model has it's curve leaning into the top-left corner.
+A visual way of representing [[CS Notes/MATH2050/Logarithmic Regression]] [[Sensitivity and Specificity|accuracy]]. A more accurate model has it's curve leaning into the top-left corner.
