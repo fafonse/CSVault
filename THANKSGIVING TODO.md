@@ -1,5 +1,6 @@
 1. Create webpages (just replace main)
-	1. Write up an article on chicken scratching
+	1. Write up an article on chicken scratching (X)
+		1. Add it to html
 	2. Write an article on shading technique
 2. Math Project
 	1. Research Elastic net hyperparameter optimization
