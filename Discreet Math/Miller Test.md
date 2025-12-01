@@ -31,7 +31,7 @@ Repeating the algorithm 20x leads to a failure chance of $\frac{1}{4}^{20}$, or 
 > Remember to use `remainder = pow(b, e, n)` instead of `remainder = b ** e % n`. The `pow()` function is more optimized for the mod operation compared to the regular way.
 
 1. $n$ is our number we want to test
-2. Let $n-1=2^{s}t$, where $s$ is a positive integer and $t$ is an odd positive integer.
+2. Let $n-1=2^{s}*t$, where $s$ is a positive integer and $t$ is an odd positive integer.
 	- We divide $t$ by 2, starting with $n-1$. Every time we get an even integer, we divide by 2 again, adding 1 to $s$.
 	- For $n=113$, we could set $s=4$ and $t=7$
 	- $113 = 2^{4} * 7$
