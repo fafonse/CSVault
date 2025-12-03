@@ -137,7 +137,7 @@ Hyperparameter optimization for (\alpha) and regularization strength (\lambda) e
 
 2. **Logistic Regression:** Fit with elastic net penalty and balanced class weights.
 
-3. **Elastic Net Regression:** Tune (\alpha) and (\lambda); interpret coefficients.
+3. **Elastic Net Regression:** Tune $(\alpha)$ and $(\lambda)$; interpret coefficients.
 
 4. **Model Evaluation:** Compare metrics (R², accuracy, sensitivity, specificity) before and after optimization.
 
