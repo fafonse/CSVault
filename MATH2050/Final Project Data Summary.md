@@ -2,11 +2,11 @@
 
 # **Methodology and Data Summary**
 
-  
+## **Abstract**
+This project focuses on analyzing a Taiwanese Bankruptcy Prediction dataset to identify key factors that can predict whether a company will go bankrupt. Bankruptcy prediction is important because it helps protect investors, provides context to lawmakers, and enables companies to take preventative measures against bankruptcy. Prior studies, such as those using Altman’s Z-score model and more recent machine learning studies, have shown that several factors, like return on assets, gross margin, and profitability rates, are strong predictors of bankruptcy. In this project, we plan to build visual models to answer questions such as: Which financial indicators are most predictive of bankruptcy? And can we predict if a business will go bankrupt? After answering the questions, we hope that we can use limited public data and our models to predict how close a publicly traded company is to bankruptcy.
 
 ## **1. Introduction**
 
-  
 
 The dataset used in this study contains financial indicators for companies labeled as either **bankrupt** or **non-bankrupt**. A critical challenge of this dataset is the **extreme class imbalance**: only about **5%** of observations correspond to bankrupt companies, creating a roughly **30:1 majority-to-minority ratio**. This imbalance makes predicting the minority class particularly difficult, as standard machine learning algorithms tend to favor the majority class.
 
