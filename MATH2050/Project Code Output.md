@@ -3,23 +3,23 @@
 ```python
 ☆～ LassoCV Summary-san ～☆
 Chosen alpha: 0.3593813663804626
-Selected features: 73 / 95
+Selected features: 95 / 95
 
 Important features-kun (nonzero):
-Borrowing dependency                           1.453722
-Debt ratio %                                   0.978121
-Total debt/Total net worth                     0.450917
-Cash Flow to Total Assets                      0.287511
-ROA(A) before interest and % after tax         0.255033
+Borrowing dependency                           1.453816
+Debt ratio %                                   0.978151
+Total debt/Total net worth                     0.451304
+Cash Flow to Total Assets                      0.287804
+ROA(A) before interest and % after tax         0.254846
                                                  ...
-Accounts Receivable Turnover                  -0.727387
-Inventory and accounts receivable/Net value   -0.833779
-Net Income to Total Assets                    -0.925412
-Net worth/Assets                              -0.978121
-Persistent EPS in the Last Four Seasons       -1.530411
-Length: 73, dtype: float64
-Chosen C: 0.0001
-Chosen l1_ratio: 0.1
+Accounts Receivable Turnover                  -0.727027
+Inventory and accounts receivable/Net value   -0.834184
+Net Income to Total Assets                    -0.925014
+Net worth/Assets                              -0.978151
+Persistent EPS in the Last Four Seasons       -1.529939
+Length: 95, dtype: float64
+Chosen C: 0.046415888336127774
+Chosen l1_ratio: 0.9
 ```
 
 ## Prepass elastic net
