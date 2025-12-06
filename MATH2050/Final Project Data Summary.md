@@ -231,12 +231,12 @@ After understanding the data, we move to building predictive models for bankrupt
 
 Because of the skewed class distribution, a standard model would tend to predict the majority class and ignore bankrupt firms. To address this, we use **class weighting** rather than resampling:
 
-- We set `class_weight = "balanced"` in logistic regression, which up-weights errors made on bankrupt firms relative to non-bankrupt firms.
+- We manually compute class weights separately from the predictive models, as we need several pre-pass models to pare down our feature set.
     
 - This approach adjusts the model’s loss function directly, rather than altering the original dataset or creating synthetic points.
     
 
-We considered synthetic oversampling techniques (such as SMOTE), but removed them from the final methodology to avoid generating artificial financial ratios in an already highly imbalanced setting and to stay consistent with course constraints.
+We considered synthetic oversampling techniques (such as SMOTE), but removed them from the final methodology to avoid generating artificial financial ratios that would greatly outnumber real data points.
 
 ### **3.2 Logistic Regression with Elastic Net**
 
@@ -246,13 +246,13 @@ Configuration:
 
 - **Penalty:** Elastic net (L1 + L2).
     
-- **Mixing parameter:** `l1_ratio = 0.5` (equal mixture of LASSO and Ridge).
+- **Mixing parameter:** `l1_ratio = 0.9` (90% LASSO, 10% Ridge).
     
 - **Solver:** SAGA, which supports elastic net regularization and scales to larger datasets.
     
-- **Class weighting:** `class_weight = "balanced"` to address imbalance.
+- **Class weighting:** Balanced, done separately for consistency through optimization.
     
-- **Feature scaling:** StandardScaler applied to all predictors before fitting.
+- **Feature scaling:** `StandardScaler` applied to all predictors before fitting.
     
 
 The elastic net is particularly appropriate here because:
@@ -260,6 +260,7 @@ The elastic net is particularly appropriate here because:
 - The **L1 (LASSO)** component promotes sparsity by shrinking some coefficients to zero, effectively performing feature selection in a highly correlated feature space.
     
 - The **L2 (Ridge)** component stabilizes the model when predictors are correlated, distributing weight across related variables.
+	- Shrinks coefficients *close to zero*, but not zero. Doesn't cut out anything.
     
 
 For comparison, we also fit an **unweighted** logistic regression with the same penalty and solver but `class_weight=None`.
@@ -268,9 +269,9 @@ For comparison, we also fit an **unweighted** logistic regression with the same 
 
 We evaluate both models on a held-out test set (30% of the data) using:
 
-- **Accuracy** – overall fraction of correctly classified firms,
+- **Accuracy** – overall fraction of correctly classified firms
     
-- **Sensitivity (Recall) for the bankrupt class (1)**,
+- **Sensitivity (Recall)** for the bankrupt class (1)
     
 - **Specificity** for the non-bankrupt class (0).
     
@@ -288,7 +289,7 @@ The results are:
     
     This model appears very accurate overall but does a poor job on the minority class: it only correctly identifies about 21% of bankrupt firms.
     
-- **Weighted logistic model (class_weight = "balanced")**
+- **Weighted Logistic model with LASSO prepass**
     
     - Accuracy: **0.880**
         

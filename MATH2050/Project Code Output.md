@@ -1,23 +1,23 @@
 
-## Prepass LASSO
+## Pre-pass LASSO
 ```python
 ☆～ LassoCV Summary-san ～☆
 Chosen alpha: 0.3593813663804626
-Selected features: 95 / 95
+Selected features: 73 / 95
 
 Important features-kun (nonzero):
-Borrowing dependency                           1.453816
-Debt ratio %                                   0.978151
-Total debt/Total net worth                     0.451304
-Cash Flow to Total Assets                      0.287804
-ROA(A) before interest and % after tax         0.254846
+Borrowing dependency                           1.453877
+Debt ratio %                                   0.978302
+Total debt/Total net worth                     0.450922
+Cash Flow to Total Assets                      0.287590
+ROA(A) before interest and % after tax         0.255253
                                                  ...
-Accounts Receivable Turnover                  -0.727027
-Inventory and accounts receivable/Net value   -0.834184
-Net Income to Total Assets                    -0.925014
-Net worth/Assets                              -0.978151
-Persistent EPS in the Last Four Seasons       -1.529939
-Length: 95, dtype: float64
+Accounts Receivable Turnover                  -0.727117
+Inventory and accounts receivable/Net value   -0.833932
+Net Income to Total Assets                    -0.925540
+Net worth/Assets                              -0.978302
+Persistent EPS in the Last Four Seasons       -1.530338
+Length: 73, dtype: float64
 Chosen C: 0.046415888336127774
 Chosen l1_ratio: 0.9
 ```
