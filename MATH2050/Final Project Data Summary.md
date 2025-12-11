@@ -231,7 +231,7 @@ After understanding the data, we move to building predictive models for bankrupt
 
 Because of the skewed class distribution, a standard model would tend to predict the majority class and ignore bankrupt firms. To address this, we use **class weighting** rather than resampling:
 
-- We manually compute class weights separately from the predictive models, as we need several pre-pass models to pare down our feature set.
+- We manually compute class weights separately from the predictive models, as we need a pre-pass model to pare down our feature set. This keeps our weights consistent.
     
 - This approach adjusts the model’s loss function directly, rather than altering the original dataset or creating synthetic points.
     
@@ -240,13 +240,22 @@ We considered synthetic oversampling techniques (such as SMOTE), but removed the
 
 ### **3.2 Logistic Regression with Elastic Net**
 
-Our primary predictive model is a **binary logistic regression** with an **elastic net penalty**, trained on standardized features using the SAGA solver.
+Our primary predictive model is a **binary logistic regression** with an **elastic net penalty**, trained on standardized features using the SAGA solver with a pre-pass with a **LASSO (L1) penalty**. The pre-pass should reduce the feature set and complexity for the more complex elastic net regression.
 
-Configuration:
+LASSO Pre-pass Results: 
+- A reduced feature set from 95 columns down to only 73
+- Chosen alpha: 0.359
+- Most significant features:
+	- Borrowing dependency, Debt ratio, Total debt/net worth, Cash flow to Total Assets, ROA(A) before interest and % after tax
+	- Accounts Receivable Turnover, Inventory and accounts recievable/Net value, Net income to Total Assets, Net worth/Assets, Persistent EPS in the Last Four Seasons
+
+Elastic Net Configuration:
 
 - **Penalty:** Elastic net (L1 + L2).
     
 - **Mixing parameter:** `l1_ratio = 0.9` (90% LASSO, 10% Ridge).
+
+- **Regularization parameter:** `c = 0.046`, high regularization, model could underfit
     
 - **Solver:** SAGA, which supports elastic net regularization and scales to larger datasets.
     
@@ -289,27 +298,26 @@ The results are:
     
     This model appears very accurate overall but does a poor job on the minority class: it only correctly identifies about 21% of bankrupt firms.
     
-- **Weighted Logistic model with LASSO prepass**
+- **Weighted Logistic Regression (Elastic Net) model**
     
-    - Accuracy: **0.880**
+    - Accuracy: **0.868**
         
-    - Sensitivity (bankrupt): **0.727**
+    - Sensitivity (bankrupt): **0.838**
         
-    - Specificity (non-bankrupt): **0.885**
+    - Specificity (non-bankrupt): **0.869**
         
     
-    After introducing class weights, the accuracy drops slightly, but **recall on the bankrupt class jumps to about 72.7%**, which is far more useful for an early warning system. Specificity remains reasonably high at 88.5%, meaning most non-bankrupt firms are still correctly classified.
+    After introducing class weights, the accuracy drops slightly, but **recall on the bankrupt class jumps to about 83.8%**, which is far more useful for an early warning system. Specificity remains reasonably high at 86.9%, meaning most non-bankrupt firms are still correctly classified.
     
 
-We treat the **weighted model** as our final model. The confusion matrix in Figure 8 shows that the weighted model correctly identifies most non-bankrupt firms while substantially increasing the number of correctly detected bankrupt firms compared to the unweighted model.
+We treat the **weighted regularized model** as our final model. The confusion matrix in Figure 8 shows that the weighted model correctly identifies most non-bankrupt firms while substantially increasing the number of correctly detected bankrupt firms compared to the unweighted model.
 
-![[Pasted image 20251204163324.png|250]]  
+![[Pasted image 20251205222309.png]]  
 **Figure 8. Confusion matrix for the class-weighted logistic regression model on the test set.**
 
 We also evaluate the model using the ROC curve and AUC. Figure 9 presents the ROC curve for the weighted model. The area under the curve (AUC) indicates that the model provides good discrimination between bankrupt and non-bankrupt firms across a range of thresholds.
 
-![[Pasted image 20251204163331.png|250]]  
-**Figure 9. ROC curve for the class-weighted logistic regression model.**
+![[Pasted image 20251205221957.png]]**Figure 9. ROC curve for the class-weighted logistic regression model.**
 
 The key takeaway is that the unweighted model is misleadingly “good” due to the imbalance, whereas the weighted model meaningfully balances catching bankrupt firms with keeping false alarms at a moderate level.
 
@@ -332,7 +340,7 @@ From the **predictive modeling**:
 
 - A simple unweighted logistic regression achieves high **accuracy (0.964)** but very low **sensitivity (0.212)** for bankrupt firms, making it inadequate as an early warning system.
     
-- A **class-weighted elastic net logistic regression** improves recall on bankrupt firms to **0.727**, with **specificity 0.885** and overall accuracy **0.880**, offering a much better balance between detecting distressed firms and avoiding excessive false alarms.
+- A **class-weighted elastic net logistic regression** improves recall on bankrupt firms to **0.838**, with **specificity 0.869** and overall accuracy **0.868**, offering a much better balance between detecting distressed firms and avoiding excessive false alarms.
     
 - The signs of the coefficients align with financial theory: leverage ratios (e.g., Debt Ratio) increase bankruptcy probability, while profitability and equity ratios (e.g., ROA, Net Income/Total Assets, Net Worth/Assets) decrease it.
     
@@ -352,7 +360,7 @@ Future work could explore:
     
 - Alternative imbalance handling techniques (SMOTE, undersampling, cost-sensitive learning),
     
-- External validation on more recent and diverse datasets,
+- External validation on more recent and regionally diverse datasets
     
 - Integration of market and macroeconomic variables alongside accounting ratios.
     
