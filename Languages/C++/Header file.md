@@ -1,0 +1,1 @@
+A public declaration of functions and stuff inside your program.
