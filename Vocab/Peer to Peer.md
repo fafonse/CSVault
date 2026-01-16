@@ -1,0 +1,3 @@
+Also known as P2P, peer to peer connections are a type of connection where there is no middle server. Instead the connecting computer connect to each other instead.
+
+Benefits from increased simplicity and cost (no need for a paid server). However, P2P connections are inherently unstable as it requires all clients and the host to have strong internet connections. You also have to worry about privacy as [[Internet Protocol|IP]] addresses are exposed to everyone in the network.
