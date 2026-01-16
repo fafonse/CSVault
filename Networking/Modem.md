@@ -1,0 +1,1 @@
+A device that connects [[Access Network|Access Networks]] to their local ISP. Essentially the translation layer between the [[Access Network#Technology Types|technology your ISP uses]] and your [[LAN]].
