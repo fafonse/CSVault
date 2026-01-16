@@ -1,0 +1,2 @@
+Also known as *TDM*, this method of fitting multiple data streams has a stark contrast to the other technique [[Frequency Division Multiplexing|FDM]]. 
+Time is divided into "slots", where each source can transmit at a maximum rate (due to a wider frequency band), but only during its active time slot.
