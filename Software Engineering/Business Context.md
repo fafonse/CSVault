@@ -1,0 +1,1 @@
+The environment that surrounds and influences a business. This include the social, political, technologic, and economic context surrounding a business.
