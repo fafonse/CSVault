@@ -12,7 +12,7 @@ It's better to use SMOTE instead when:
 
 ## Example Code
 
-Usage with a [[CS Notes/MATH2050/Logarithmic Regression|regular logarithmic regression]]:
+Usage with a regular logarithmic regression:
 ```python
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
