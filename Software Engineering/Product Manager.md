@@ -1,0 +1,2 @@
+The person between the investors/shareholders and the developers.
+They are often paid very well, and have to successfully relay project requirements to the developers while also meeting financial demands.
