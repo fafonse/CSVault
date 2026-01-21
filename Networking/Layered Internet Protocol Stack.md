@@ -8,7 +8,7 @@ Made up of 5 [[Architectural Layering|layers]].
 	- [[Encapsulation|Encapsulates]] *messages* with a transport-layer header to create a *segment*
 		- Implements many things, usually information to help with transportation
 3. *Network*: routing of datagrams from source to destination
-	- IP, routing protocols
+	- [[Internet Protocol|IP]], routing protocols
 	- Encapsulates a *segment* to create a *datagram*
 4. *Link*: data transfer between neighboring network elements
 	- Ethernet, 802.11 (WiFi), PPP
