@@ -1,0 +1,9 @@
+Holy shit they're the slaves. That's big.
+- Papa is the most trusted slave
+	- He's also got some luxuries since he's such a good cool
+	- Highly respected among many
+
+1. I would consider the book a *faction* book, as it is derived from a nonfictional setting with nonfictional characters, but tells a fictional story. While Hercules likely did make a birthday cake for George Washington, the details like the dialogue and character interactions are all fictional.
+2. On this issue I feel partially inclined to agree with Scholastic. To some extent I feel as though the portrayal of slavery can feel overly-lighthearted and shallow in tone. However, it's very likely that the slaves did enjoy *some* parts of their work (I would have fun baking a cake too). Yet, I think that the portrayal is too simplistic. I would have preferred if the author showed either the slaves eating at a different table, Hercules expressing his dissenting opinion, or some indicator that showed how slaves were not treated like regular people.
+3. I don't mind the illustrations of smiling slaves, I just don't think that it's written appropriately to counteract the normalization of slavery with it. I like how the illustrator draws the black characters with so much life in them, and reducing their emotions to anything non-positive would really bring the story's quality down. It's just that the slaves smile in spite of nothing, as the book doesn't even touch on what it means to be a slave.
+4. I would describe the book as factually inaccurate. I personally wouldn't quote it, and it also leaves out the key detail of Hercules running away from Mt. Vernon (leaving his daughter behind). That one detail makes his portrayal in the book disingenuous and incomplete.
