@@ -12,7 +12,8 @@ However, this is slower as `parameter` goes through a default constructor and th
 
 Instead you use this format for initializing on load:
 ```cpp
-Class::Class(int value) : parameter(value) {}
+Class::Class(int value) 
+	: parameter(value) {}
 
 // multiple values
 

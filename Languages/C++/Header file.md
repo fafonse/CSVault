@@ -17,3 +17,29 @@ int assignment1( std::istream& is, std::ostream& os );
 
 #endif // remember to end your definition
 ```
+
+## Guard
+
+Special instructions that run pre-compile. They tell your compiler what to do when it sees your header file.
+### Pragma and ifndef
+
+When compiling your code you need to compile header files only **once**.
+There are two main ways of doing it:
+- Pragma
+	- `#pragma once` compiles the header once
+- ifndef, def, and endef
+	- Checks if your code is *not defined*, if so it *defines it*, then it *ends* the definition
+
+```cpp
+#pragma once
+
+code here...
+```
+
+```cpp
+#ifndef EXAMPLE_H
+#def EXAMPLE_H
+
+code here...
+#endef
+```
