@@ -51,3 +51,29 @@ We need to care about [[Ethics|ethics]] in technical writing because more than a
 	- While *logos* "considers the means necessary", *pathos* and *ethos* provide the impetus to act
 - A purely [[Epistemology|epistemological]] approach to technical writing naturally leads to an ethic of expediency
 	- Everything is a technical means to a "higher" end (truth)
+	- This lead to form the "moral" basis of Nazi society
+		- An *ethos* of an entire culture
+- Expediency reduces arguments of worth and goodness to a means to an end, reducing their ethicality
+	- Appeals to give charity due to a tax break
+- Aristotle's concept and virtue ahs deteriorated due to individualist and utilitarianism.
+
+## Hitler's Ethical Program
+Hitler's program was "ethical" in the broadest sense of the term. Hitler knew that to have such a hideous program in action, he must have a spiritual foundation.
+> The spiritual base must be motivated by "concern" for the State, or technology itself
+- There is no difference between wisdom and virtue, as long as it serves an end (the State)
+- Expediency becomes the basis of virtue itself (Hitler)
+- Hitler saw to secure the wellbeing of the Aryan race
+	- Jews must be killed for the race to prosper, exile/slavery would not suffice
+	- Technology (eugenics, racial biology, mechanical improvements) provided a reason for expediency. Best seen with the gassing van memo.
+		- Turning an entire nation into a death machine is good, cause it's efficient, and efficiency is good.
+
+Hitler breaks down the separation of expediency of technology and politics masterfully, forming a new "ethical" moral basis to commit mass genocide.
+
+## Nazi Rhetoric
+In late industrial capitalism, technological values upend traditional values.
+> Value is determined by [[Utility|utility]] over traditional societal values
+
+- Expediency is the only "technical" ethic, the only one with "pure rationality"
+	- The only ethic that can be "measured"
+	- Hitler was a "religious rationalist"
+Expediency can be exclusively grounded in itself, using no other ethic as basis. Common now in our highly scientific, technological era.
