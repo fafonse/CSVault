@@ -1,0 +1,3 @@
+- What non-fiction books did you enjoy as a child?
+
+I didn't read a lot of nonfiction books as a kid, but when I did I always enjoyed the ones with lots of pictures. Specifically I remember I had a book set as a kid for dinosaurs, bugs, and sharks. I always liked looking at all the pictures and slowly reading the passages over time. I would read the books somewhat infrequently, as I looked at all the pictures first then read the actual text bit by bit over time.
