@@ -3,6 +3,14 @@ Format:
 - Author
 - Items
 - Plot Summary
+
+## Charlottes Web
+- Charlotte's Web
+- E.B White
+- Piece of Ham
+MC loves a pig called Wilbur, the pig is sold early to her aunt and uncle. The pig feels lonely without his friend, and becomes friends with a barn spider. Wilbur gets super depressed when a lamb tells him he's gonna get slaughtered for his meat.
+Charlotte uses her webs to write "Some Pig" to catch the interest of the farmers. Over a while she continues to write more words about Wilbur, and the increased care given to him allows him to compete in the state fair. There he wins a prize ($25) and is basically guaranteed from slaughter.
+Charlotte asks Wilbur to watch after her children and dies.  Wilbur then sees her kids off as they fly away, however three of them decide to stay behind.
 ## Coraline
 - Coraline
 - Neil Gaiman

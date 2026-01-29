@@ -2,9 +2,12 @@ Notes specific to each language
 
 %% Begin Waypoint %%
 - **C++**
+	- [[++]]
 	- [[Classes]]
 	- [[Header file]]
+	- [[IOstream]]
 	- [[Pointer]]
+	- [[Typecasting]]
 - **JavaScript**
 	- [[Arrays]]
 	- [[Element Methods]]
