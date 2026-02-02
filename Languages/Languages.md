@@ -4,6 +4,7 @@ Notes specific to each language
 - **C++**
 	- [[++]]
 	- [[Classes]]
+	- [[Debugging]]
 	- [[Header file]]
 	- [[IOstream]]
 	- [[Pointer]]
