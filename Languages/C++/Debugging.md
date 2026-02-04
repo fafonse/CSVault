@@ -6,3 +6,5 @@ After you have your debug flags in your file, you then need to *save* the file a
 - `g++ -g hello.cpp -o hello.out`
 
 Then after compiling you then need to open the debugger and select the *compiled executable*. Then the debugger can properly go through step by step.
+
+> Just remember to compile with a debug flag, then you can use whatever debugger you want

@@ -1,3 +1,7 @@
+---
+aliases:
+  - HTTP
+---
 HTTP is a web protocol primarily made for HTML. However, overtime we have made HTTP work with basically anything, so frameworks are now necessary for everything.
 
 HTTP is an [[Layered Internet Protocol Stack|application layer]] protocol. It uses [[Transmission Control Protocol|TCP]] to get to the link layer.
