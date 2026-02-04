@@ -1,0 +1,1 @@
+Stories with a strong moral slant. They commonly feature a strong central theme and animal characters.

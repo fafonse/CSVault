@@ -1,0 +1,1 @@
+Highly exaggerated tales that really push what the hero does to the edge of reality.
