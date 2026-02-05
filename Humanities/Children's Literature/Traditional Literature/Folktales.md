@@ -5,3 +5,4 @@
 - Beast tales: personified animals
 - Fairy tales: With magic and enchantment
 - Realistic: Human characters and no magic elements
+

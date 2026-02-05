@@ -4,6 +4,12 @@ Format:
 - Items
 - Plot Summary
 
+## The Day the Crayons Quit
+- The Day the Crayons Quit
+- Drew Daywalt
+- Small plush cat
+MC is a boy with a box of crayons. One day he gets a letter with all of their complaints, and he then makes a picture using all of their suggestions. That picture gets a gold star from his teacher for creativity.
+
 ## Charlottes Web
 - Charlotte's Web
 - E.B White
