@@ -1,5 +1,5 @@
 - Mean
-	- Arithmetic average, *sensitive to [outliers](Outliers)*
+	- Arithmetic average, *sensitive to [outliers](Outliers.md)*
 - Median
 	- Middle value in ordered data, *robust to outliers*
 - Mode
