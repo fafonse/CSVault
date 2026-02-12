@@ -22,7 +22,6 @@ There are two main types of encryption:
 	   Both parties need to know the encryption/decryption formulas.
 	- You run into issues with the number of keys required for multi-user communication
 	- You also need to share a lot of private info (which could be intercepted) for encryption to work.
+	- ***FAST***
 2. **Asymmetric** 
 	- In asymmetric encryption, there are two "keys". There's a encryption key and a decryption key. That way you can share the encryption key around (your *public* key), and whenever someone wants to send you a message you can decrypt it with a secret decryption key (your *private* key).
-
-## Public Key Cryptography

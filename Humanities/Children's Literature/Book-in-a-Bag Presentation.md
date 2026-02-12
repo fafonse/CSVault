@@ -28,3 +28,6 @@ Coraline is a young girl who moves into a new area with her parents. Her parents
 As she spends more time in the other world, her "other mother" offers that she stays. However, to stay in that world Coraline must have buttons sewn on her eyes. Ew. 
 
 Coraline rejects the offer, angering the Other Mother. Coraline escapes the other world and finds her parents have been kidnapped by the other mother. Tricking the other mother into making a "game" for her, she with the help of older victim children stall the other mother for a final confrontation. Coraline escapes with her parents and happily ever after (after killing the other mother's hand)
+
+## Good Night Moon
+- Clement Hurd
