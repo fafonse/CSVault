@@ -33,7 +33,6 @@
 	- [[Weighted Odds]]
 - **Misc**
 	- **Final Project**
-		- [[Final Project - Bankruptcy.pdf]]
 		- [[Final Project Notes]]
 	- [[LaTeX Cheats]]
 	- [[Working with Shitty Graphs]]
