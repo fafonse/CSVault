@@ -26,6 +26,7 @@ Notes specific to each language
 - [[Python]]
 - [[Ruby]]
 - [[SQL]]
+- [[Stack and Heap]]
 - [[Typescript]]
 
 %% End Waypoint %%

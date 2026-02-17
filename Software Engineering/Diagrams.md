@@ -12,7 +12,7 @@ Should represent components and interactions. Useful to include some implementat
 - No bidirectional arrows
 	- Caller points to callee
 - **NOT a flow diagram**
-d
+
 > Takes 30 seconds to make, takes 30 seconds for the dev team to understand
 
 ## Flow Diagrams
