@@ -31,3 +31,9 @@ Coraline rejects the offer, angering the Other Mother. Coraline escapes the othe
 
 ## Good Night Moon
 - Clement Hurd
+
+## Pinkalicious
+- Cupcakes
+- Victoria Kann
+
+Girl eats so many cupcakes she wakes up pink. Doctor tells her to eat no pink shit. Girl dont gaf so she eats more pink shit. She wakes up next morning all red, and the only thing she can eat is a green apple. She then wakes up normal
