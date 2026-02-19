@@ -4,6 +4,11 @@ Format:
 - Items
 - Plot Summary
 
+## Coduruoy
+- Teddy bear, button
+- Don Freeman
+MC is an unsold teddy bear in a department store, and gets passed up by a little girl because he's missing a button. He goes on a whole trip looking for his button, but in the end he doesn't find it. The girl comes back and buys him though, sewing on a new button at home.
+
 ## The Day the Crayons Quit
 - The Day the Crayons Quit
 - Drew Daywalt

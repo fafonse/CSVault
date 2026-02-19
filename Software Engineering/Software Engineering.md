@@ -6,10 +6,13 @@
 	- [[HTTP API]]
 	- [[HTTP Requests]]
 - **[[Software Process]]**
-	- [[AGILE]]
-	- [[Business Context]]
+	- **[[AGILE]]**
+		- [[Business Context]]
+		- [[Story Points]]
+		- [[User Stories]]
 	- [[Maintaining Software]]
 	- [[Product Manager]]
+	- [[Risk Classification and Factors]]
 	- [[Software Process Phases]]
 	- [[Software Requirements]]
 	- [[Waterfall]]
