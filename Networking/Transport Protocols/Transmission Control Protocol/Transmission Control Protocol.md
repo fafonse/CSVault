@@ -9,3 +9,5 @@ An overall secured, highly dressed up protocol. HTTP uses TCP for all of it's sa
 - congestion control: throttle sender when network overloaded
 - connection-oriented: setup required between client and server process
 - does not provide: timing, minimum throughput guarantee, security
+
+> Often involves *more commitment* than UDP
