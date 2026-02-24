@@ -41,4 +41,9 @@ Coraline rejects the offer, angering the Other Mother. Coraline escapes the othe
 - Cupcakes
 - Victoria Kann
 
-Girl eats so many cupcakes she wakes up pink. Doctor tells her to eat no pink shit. Girl dont gaf so she eats more pink shit. She wakes up next morning all red, and the only thing she can eat is a green apple. She then wakes up normal
+Girl eats so many cupcakes she wakes up pink. Doctor tells her to eat no pink shit. Girl dont gaf so she eats more pink shit. She wakes up next morning all red, and the only thing she can eat is a green apple. She then wakes up normal.
+
+## Olivia
+- Little sweater (dress up), ballerina tutu, stuffed pig, paints
+- Ian Falconer
+Olivia is a pig that likes to dress up, sometimes paint on the walls. She also wants to be an artists in the future, or a ballerina. 

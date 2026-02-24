@@ -10,7 +10,7 @@ Notes specific to each language
 	- [[IOstream]]
 	- [[Operator Overloading]]
 	- [[Pointer]]
-	- [[[[Callbacks]]]
+	- [[Typecasting]]
 - **JavaScript**
 	- [[Arrays]]
 	- [[Element Methods]]
