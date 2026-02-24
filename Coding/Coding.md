@@ -3,13 +3,14 @@ Notes specific to each language
 %% Begin Waypoint %%
 - **C++**
 	- [[++]]
+	- [[Callbacks]]
 	- [[Classes]]
 	- [[Debugging]]
 	- [[Header file]]
 	- [[IOstream]]
 	- [[Operator Overloading]]
 	- [[Pointer]]
-	- [[Typecasting]]
+	- [[[[Callbacks]]]
 - **JavaScript**
 	- [[Arrays]]
 	- [[Element Methods]]
