@@ -28,4 +28,20 @@
 2. Send packet
 3. Wait for acknowledgement
 	- If NAK, resend the packet
-	- if ACK, give a 
+	- if ACK, send the next packet
+
+# RDT 2.2
+Instead of using NAK for bad packets, we just use the ACK.
+Here we use sequence numbers to validate the ACKs.
+
+- If a packet was dropped, send an ACK for the *last packet recieved*
+- If it was successful when send the ACK for the *current packet*
+
+# RDT 3.0
+
+*New assumption*: Underlying channel can also *lose* packets
+- Checksum, sequence numbers, ACK, retransmission isn't enough
+- Retransmit if no ACK was received in time (maybe it got super delayed)
+	- Timeout timer
+
+> Restart the time out whenever you send a packet out (ack or data, whatever)
