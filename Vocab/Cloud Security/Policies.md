@@ -1,0 +1,1 @@
+A group of [[Permissions|permissions]] that governs what a user can do.

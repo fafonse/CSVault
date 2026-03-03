@@ -1,0 +1,1 @@
+*Classes* of users, usually in the context of the [[Policies|policies]] applied to those users.
