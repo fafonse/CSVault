@@ -10,6 +10,7 @@ Notes specific to each language
 	- [[IOstream]]
 	- [[Operator Overloading]]
 	- [[Pointer]]
+	- [[Returning Static]]
 	- [[Typecasting]]
 - **JavaScript**
 	- [[Arrays]]
@@ -21,6 +22,7 @@ Notes specific to each language
 - [[C Sharp]]
 - [[CSS]]
 - [[Go]]
+- [[Guards]]
 - [[HTML]]
 - [[Java]]
 - [[Kotlin]]
