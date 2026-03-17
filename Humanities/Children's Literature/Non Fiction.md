@@ -10,7 +10,7 @@
 	- All about the images
 - Pop-ups
 	- Very engaging, 3D
-	- Easy to damage
+	- *Easy to damage*
 - Reference Books
 	- Encyclopedias, dictionaries, atlases
 - Series

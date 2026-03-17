@@ -4,6 +4,7 @@ Format:
 - Items
 - Plot Summary
 
+# Midterm
 ## Coduruoy
 - Teddy bear, button
 - Don Freeman
@@ -47,3 +48,11 @@ Girl eats so many cupcakes she wakes up pink. Doctor tells her to eat no pink sh
 - Little sweater (dress up), ballerina tutu, stuffed pig, paints
 - Ian Falconer
 Olivia is a pig that likes to dress up, sometimes paint on the walls. She also wants to be an artists in the future, or a ballerina. 
+
+# Final
+
+## If You Give a Mouse a Cookie
+- Laura Numeroff
+- Image of a cookie
+
+A mouse starts by asking for a cookie, and from there has a string of desires until it gets tired. When the mouse is tired, they ask for a second cookie.
