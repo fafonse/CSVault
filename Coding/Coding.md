@@ -18,6 +18,7 @@ Notes specific to each language
 	- [[Event Listener]]
 	- [[Print Statement]]
 	- [[Standard Libraries]]
+- **[[Python]]**
 - [[Assembly]]
 - [[C Sharp]]
 - [[CSS]]
@@ -27,7 +28,6 @@ Notes specific to each language
 - [[Java]]
 - [[Kotlin]]
 - [[PHP]]
-- [[Python]]
 - [[Ruby]]
 - [[SQL]]
 - [[Stack and Heap]]

@@ -10,6 +10,10 @@
 		- [[Business Context]]
 		- [[Story Points]]
 		- [[User Stories]]
+	- **[[Diagramming]]**
+		- [[Component Diagram]]
+		- [[Flow Chart]]
+		- [[Sequence Diagram]]
 	- [[Maintaining Software]]
 	- [[Product Manager]]
 	- [[Risk Classification and Factors]]
@@ -17,7 +21,6 @@
 	- [[Software Requirements]]
 	- [[Waterfall]]
 - [[Data Modeling]]
-- [[Diagrams]]
 - [[Dynamo DB planning]]
 - [[Factors for Good Software]]
 
