@@ -56,3 +56,11 @@ Olivia is a pig that likes to dress up, sometimes paint on the walls. She also w
 - Image of a cookie
 
 A mouse starts by asking for a cookie, and from there has a string of desires until it gets tired. When the mouse is tired, they ask for a second cookie.
+
+## Ya Ain't Gonna Paint No More!
+- Karen Beaumont
+- Red + black paint
+- Toy hand
+- Easter egg
+
+A boy paints on all of his body parts until the AUTHORITY ruins it all.

@@ -12,6 +12,7 @@ Notes specific to each language
 	- [[Pointer]]
 	- [[Returning Static]]
 	- [[Typecasting]]
+	- [[virtual]]
 - **JavaScript**
 	- [[Arrays]]
 	- [[Element Methods]]
@@ -28,6 +29,7 @@ Notes specific to each language
 - [[Java]]
 - [[Kotlin]]
 - [[PHP]]
+- [[Polymorphism]]
 - [[Ruby]]
 - [[SQL]]
 - [[Stack and Heap]]
