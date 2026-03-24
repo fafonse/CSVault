@@ -1,5 +1,7 @@
 A diagram that shows how data is processed and flows. Specifically shows event sequences and their branches.
 
+Flow charts are also *super useful* for spotting failure 
+
 Useful for:
 - User flows
 - Data processing

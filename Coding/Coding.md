@@ -13,6 +13,11 @@ Notes specific to each language
 	- [[Returning Static]]
 	- [[Typecasting]]
 	- [[virtual]]
+- **Databases**
+	- [[Cascading Updates]]
+	- [[Slowness]]
+	- [[SQL]]
+	- [[Table Scan]]
 - **JavaScript**
 	- [[Arrays]]
 	- [[Element Methods]]
@@ -21,6 +26,7 @@ Notes specific to each language
 	- [[Standard Libraries]]
 - **[[Python]]**
 - [[Assembly]]
+- [[Assert]]
 - [[C Sharp]]
 - [[CSS]]
 - [[Go]]
@@ -31,7 +37,6 @@ Notes specific to each language
 - [[PHP]]
 - [[Polymorphism]]
 - [[Ruby]]
-- [[SQL]]
 - [[Stack and Heap]]
 - [[Typescript]]
 
