@@ -7,7 +7,9 @@ Just below the application [[Layered Internet Protocol Stack|layer]], connected 
 - **[[Transmission Control Protocol]]**
 	- [[Handshaking]]
 	- [[Round Trip Time]]
+	- [[TCP Competition]]
 - [[Hyper Text Transfer Protocol]]
+- [[Quick UDP]]
 - [[User Datagram Protocol]]
 
 %% End Landmark %%
