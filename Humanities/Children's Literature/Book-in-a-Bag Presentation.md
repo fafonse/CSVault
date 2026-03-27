@@ -64,3 +64,8 @@ A mouse starts by asking for a cookie, and from there has a string of desires un
 - Easter egg
 
 A boy paints on all of his body parts until the AUTHORITY ruins it all.
+
+## The War That Saved My Life
+- Kimberly Brubaker Bradley
+
+Cinderella but shes in WW2. She uses evacuation orders to leave an abusive caretaker for a cool one, and then she leaves that one for her uncaring biological mom. Main character has clubfoot, and she has to take care of a little brother during all of it. In the end, they are taken back by the "cool" caretaker.
