@@ -4,7 +4,9 @@ An extremely important layer, often not talked about enough.
 	- Abstracts to end-to-end processing
 
 %% Begin Landmark %%
-- [[Multiplexing]]
+- **[[Multiplexing]]**
+	- [[Frequency Division Multiplexing]]
+	- [[Time Division Multiplexing]]
 - [[vs. Other Layers]]
 
 %% End Landmark %%

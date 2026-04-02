@@ -23,6 +23,7 @@ Techniques and strategies for building effective software efficiently.
 		- [[Flow Chart]]
 		- [[Sequence Diagram]]
 	- [[Maintaining Software]]
+	- [[Measuring Success]]
 	- [[Product Manager]]
 	- [[Risk Classification and Factors]]
 	- [[Software Process Phases]]
