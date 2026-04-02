@@ -10,6 +10,7 @@ Techniques and strategies for building effective software efficiently.
 	- [[Exception Handling]]
 	- [[Logging]]
 	- [[Unit Tests]]
+	- [[Vulnerabilities]]
 - **HTTP**
 	- [[HTTP API]]
 	- [[HTTP Requests]]

@@ -6,5 +6,6 @@ Programming for failure.
 - [[Exception Handling]]
 - [[Logging]]
 - [[Unit Tests]]
+- [[Vulnerabilities]]
 
 %% End Landmark %%
