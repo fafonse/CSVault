@@ -69,3 +69,11 @@ A boy paints on all of his body parts until the AUTHORITY ruins it all.
 - Kimberly Brubaker Bradley
 
 Cinderella but shes in WW2. She uses evacuation orders to leave an abusive caretaker for a cool one, and then she leaves that one for her uncaring biological mom. Main character has clubfoot, and she has to take care of a little brother during all of it. In the end, they are taken back by the "cool" caretaker.
+
+## The Indian in the Cupboard
+- Robin Jacques
+- Tiny spoon
+- Cowboy drawing
+- Indian drawing
+
+Omri is a young boy who gets an Indian figurine from his friend Patrick one day. His mother one day gives him a key to a cupboard that she says is very special, and Omri sticks his new shit in and it comes alive. He eventually shows Patrick, whose dumbass sticks in his Cowboy figure, not realizing it's a bitch taking care of a little person. Rest of the time is Omri keeping his shit together.
