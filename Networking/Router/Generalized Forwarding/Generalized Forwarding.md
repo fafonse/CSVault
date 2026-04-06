@@ -9,7 +9,7 @@ Simple packet-handling rules. Any of several actions (including drop/block, forw
 
 - match: pattern values in packet header fields
 - actions: for matched packet: drop, forward, modify packet or send matched packet to controller
-- priority: diambiguate overlapping patterns
+- priority: disambiguate overlapping patterns
 - counters: # bytes and # packets
 
 %% Begin Landmark %%
