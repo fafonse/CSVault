@@ -88,4 +88,12 @@ By Laura Numeroff
 
 Similar to [[Book-in-a-Bag Presentation#If You Give a Mouse a Cookie|If You Give a Mouse a Cookie]], but with a fat ass moose.
 
-Has a [[Plot Structures]]
+Has a [[Plot Structures#Circular|circular plot structure]].
+
+## The Little Prince
+By Antoine de Saint-Exupery
+- Drawing of a hat
+- Snake toy
+- Fox toy
+- Rose
+- Paper crown
