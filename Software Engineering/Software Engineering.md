@@ -4,6 +4,11 @@ Techniques and strategies for building effective software efficiently.
 - **Architecture**
 	- [[Architecture Concepts]]
 	- [[Containerizaiton]]
+- **Data**
+	- [[Canonical Data Model]]
+	- [[Data Governance]]
+	- [[Data Lake]]
+	- [[Data Modeling]]
 - **[[Defensive Programming]]**
 	- [[API Retries]]
 	- [[Data Validation]]
@@ -30,7 +35,6 @@ Techniques and strategies for building effective software efficiently.
 	- [[Software Process Phases]]
 	- [[Software Requirements]]
 	- [[Waterfall]]
-- [[Data Modeling]]
 - [[Dynamo DB planning]]
 - [[Factors for Good Software]]
 

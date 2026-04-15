@@ -1,0 +1,3 @@
+A centralized repository designed to store, process, and secure large amounts of structured/semi-structured/unstructured data.
+
+> A dumpster bin for data, who knows what goes on in there...
