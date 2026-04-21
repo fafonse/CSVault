@@ -97,3 +97,14 @@ By Antoine de Saint-Exupery
 - Fox toy
 - Rose
 - Paper crown
+
+## Amelia Bedelia
+By Peggy Parish
+
+- Powder
+- Pencil
+- Todo List
+- Scissors
+- Lollipop
+
+A housemaid who follows rules very literally. A story for teaching children idioms, where Amelia sort of does it all wrong to show what NOT to do.
