@@ -32,6 +32,9 @@
 		- [[Rights]]
 		- [[Utilitarianism]]
 		- [[Virtue]]
+	- **Resume Shit**
+		- [[Cover Letter Building]]
+		- [[Resume Building]]
 	- [[Ethos of Expediency]]
 	- [[Technical Communication]]
 - [[In Media Res]]
