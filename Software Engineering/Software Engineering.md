@@ -32,7 +32,6 @@ Techniques and strategies for building effective software efficiently.
 		- [[Docker and Deployment]]
 		- [[Refactoring]]
 		- [[Scalability]]
-	- [[Measuring Success]]
 	- [[Product Manager]]
 	- [[Risk Classification and Factors]]
 	- [[Software Process Phases]]
