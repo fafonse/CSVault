@@ -1,6 +1,5 @@
 Hosts break application-layer messages into [[Data Packet|packets]]. Breaking the data up into chunks that can be transmitted through a network.
 
-*Packet transmission delay*: Size/Transmission rate
 *Store and forward*: Entire packet must arrive at router before it can be transmitted on next link
 
 ## Queueing

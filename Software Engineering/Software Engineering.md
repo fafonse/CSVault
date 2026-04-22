@@ -28,7 +28,10 @@ Techniques and strategies for building effective software efficiently.
 		- [[Component Diagram]]
 		- [[Flow Chart]]
 		- [[Sequence Diagram]]
-	- [[Maintaining Software]]
+	- **[[Software Maintenance]]**
+		- [[Docker and Deployment]]
+		- [[Refactoring]]
+		- [[Scalability]]
 	- [[Measuring Success]]
 	- [[Product Manager]]
 	- [[Risk Classification and Factors]]

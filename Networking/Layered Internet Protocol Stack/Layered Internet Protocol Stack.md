@@ -10,8 +10,9 @@ Made up of 5 [[Architectural Layering|layers]].
 3. *Network*: routing of datagrams from source to destination
 	- [[Internet Protocol|IP]], routing protocols
 	- Encapsulates a *segment* to create a *datagram*
+	- Routers
 4. *Link*: data transfer between neighboring network elements
-	- Ethernet, 802.11 (WiFi), PPP
+	- Ethernet, 802.11 (WiFi), PPP, Switches
 	- Encapsulates a *datagram* to create a *frame*
 5. *Physical*: bits "on the wire"
 

@@ -2,7 +2,7 @@ An older method of getting data across multiple routers. Typically associated wi
 
 > Contrast this to [[Packet Switching]]
 
-End-end resources allocated to a "call" between source and destination. No delay, and no propogation delay. All the circuits have allocated their time to complete that "call" entirely.
+End-end resources allocated to a "call" between source and destination. No delay, and no [[Packet Delay|propagation delay]]. All the circuits have allocated their time to complete that "call" entirely.
 - Dedicated resources: no sharing
 	- Circuit-like performance
 - Circuit segment idle if not used by call (no sharing)
