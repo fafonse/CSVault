@@ -2,5 +2,7 @@
 
 Everything in the internet needs to interface through [[Internet Protocol|IP]], from the cables under the sea to government outlook servers.
 
+- To some extent the middle has bloated a bit, as we have had more technologies that break the [[Layered Internet Protocol Stack|layered]] internet approach.
+
 > "Many members of the Internet community would argue that there is no architecture, but only a tradition which was not written down for the first 25 years (or at least not by the IAB). However, in very general terms, the community believes the goal is connectivity, the tool is the [[Internet Protocol]], and the intelligence is end to end rather than hidden in the network."
 > [RFC 1958](https://www.rfc-editor.org/rfc/rfc1958)
