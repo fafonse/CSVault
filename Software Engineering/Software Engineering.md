@@ -4,6 +4,13 @@ Techniques and strategies for building effective software efficiently.
 - **Architecture**
 	- [[Architecture Concepts]]
 	- [[Containerizaiton]]
+- **Clearinghouse**
+	- [[final component.png]]
+	- [[Final Project Documentation]]
+	- [[final sequence.png]]
+	- [[Pasted image 20260428003923.png]]
+	- [[Pasted image 20260428004018.png]]
+	- [[Pasted image 20260428004855.png]]
 - **Data**
 	- [[Canonical Data Model]]
 	- [[Data Governance]]
@@ -32,6 +39,7 @@ Techniques and strategies for building effective software efficiently.
 		- [[Docker and Deployment]]
 		- [[Refactoring]]
 		- [[Scalability]]
+	- [[Measuring Success]]
 	- [[Product Manager]]
 	- [[Risk Classification and Factors]]
 	- [[Software Process Phases]]
