@@ -1,0 +1,9 @@
+- Learned professional correspondance
+	- iFixit, talking to groupmates
+- Ethical approaches
+	- Ethics in TC
+		- Challenger disaster, WW2 memo, pacemaker case study
+	- Extensive notes made
+- Learned to communicate to a "dumber" audience
+	- simplified concepts
+	- 

@@ -22,6 +22,7 @@
 	- Childhood represented as a magical/idyllic time
 - *Peter Rabbit*, *The Wonderful Wizard of Oz*
 - Caldecott Medal established (1937)
+	- For the best picture boo`k
 - Changes in Illustration between early 1900's and mid-1900's
 	- Better technology allows for full color illustration
 
@@ -29,6 +30,9 @@
 - Child labor laws increase in 1950's
 - More children in school leads to bigger school libraries
 	- More books!
+
+**1980s**:
+- Visual renaissance of picture books
 
 **Modern Era**:
 - Rise in multiculturalism in children's literature

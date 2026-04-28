@@ -962,7 +962,6 @@ def getBankList():
 ![[Pasted image 20260428003923.png]]
 ### System Context Diagram
 ![[Pasted image 20260428004018.png]]
-
 ## User Stories
 - *79* story points total
 - *58* completed
