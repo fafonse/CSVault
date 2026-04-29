@@ -1,3 +1,7 @@
+---
+aliases:
+  - Risk Mapping
+---
 Risk = Probability \* Consequence
 
 Probability: What is the chance of occurrence?
