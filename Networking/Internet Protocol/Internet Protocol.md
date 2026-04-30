@@ -12,6 +12,7 @@ Also known as IP, it's the foundation of which the entire internet works off of.
 - [[IP Hourglass]]
 - [[IPV4 Address]]
 - [[IPV4]]
+- [[IPV6]]
 - [[Subnet]]
 - [[Tunneling]]
 
