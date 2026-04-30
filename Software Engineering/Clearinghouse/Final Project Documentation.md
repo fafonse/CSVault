@@ -541,24 +541,21 @@ Due to time constraints, I wasn't able to create a visual report of my data. How
 > Corbin's bank pulls a 404 error no matter what. And the Wild West Bank does not have credentials.
 
 ```
-Total transactions: 300
-Failed transactions: 132
-Failure ratio: 44.00%
+Total transactions: 289
+Failed transactions: 67
+Failure ratio: 23.18%
 
 Top error codes:
-404: 64
-401: 61
-403: 5
-400: 1
-500: 1
+500: 50
+400: 17
 
 Bank failure rates:
-corbins bank: 64/64 (100.00%)
-wild west bank: 61/61 (100.00%)
-josephs bank: 5/57 (8.77%)
-calibear: 2/46 (4.35%)
-tophers bank: 0/63 (0.00%)
-jeffs bank: 0/9 (0.00%)
+josephs bank: 50/50 (100.00%)
+wild west bank: 16/50 (32.00%)
+tophers bank: 1/50 (2.00%)
+corbins bank: 0/50 (0.00%)
+calibear: 0/50 (0.00%)
+jeffs bank: 0/39 (0.00%)
 
-Most error-prone bank: corbins bank (100.00% failure rate)
+Most error-prone bank: josephs bank (100.00% failure rate)
 ```
