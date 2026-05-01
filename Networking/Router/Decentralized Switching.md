@@ -5,5 +5,5 @@
 
 There are also two types of forwarding used:
 - *destination-based forwarding*: forward based only on destination IP address (traditional method)
-- *generalized forwarding*: forward based on any set of header field values
+- [[Generalized Forwarding]]: forward based on any set of header field values
 	- You can direct packets based off their content type ([[User Datagram Protocol|UDP]], [[Transmission Control Protocol|TCP]])

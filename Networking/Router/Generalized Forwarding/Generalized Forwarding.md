@@ -1,7 +1,5 @@
 ---
 aliases:
-  - SDN
-  - Software-defined Network
   - OpenFlow
 ---
 Simple packet-handling rules. Any of several actions (including drop/block, forward to a given interface, or duplicate-and-forward) can be made based on the contents of one or more packet header fields.
@@ -15,5 +13,6 @@ Simple packet-handling rules. Any of several actions (including drop/block, forw
 %% Begin Landmark %%
 - [[Flow Table Abstraction]]
 - [[Match-Action]]
+- [[Software Defined Networking]]
 
 %% End Landmark %%

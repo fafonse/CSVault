@@ -1,8 +1,8 @@
 - global
 	- all routers have *complete* topology, link cost info
-	- "link state" algorithms
+	- [[Link State Algorithm|link state]] algorithms
 - decentralized
-	- distance vector algorithms
+	- [[Distance Vector Algorithm|distance vector]] algorithms
 
 
 - Static
