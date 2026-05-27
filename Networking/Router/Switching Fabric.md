@@ -1,1 +1,0 @@
-Transfer [[Data Packet|data packets]] from [[Router Architecture#Input Port|input ports]] to the output ports.

@@ -1,1 +1,0 @@
-Also known as First-in-First-Out (FIFO).

@@ -1,3 +1,0 @@
-- Different buffer than input
-- Scheduling discipline
-	- Packets can be scheduled by priority, net neutrality, etc

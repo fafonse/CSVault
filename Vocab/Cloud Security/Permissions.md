@@ -1,1 +1,0 @@
-The individual "rights" that a user has access to in the software.

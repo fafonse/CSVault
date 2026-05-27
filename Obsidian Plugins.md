@@ -1,3 +1,0 @@
-- Git
-- Folder Notes
-- Waypoints

@@ -1,1 +1,0 @@
-Optimizing your website for search engines/AI.

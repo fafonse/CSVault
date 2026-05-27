@@ -1,1 +1,0 @@
-Visited Buffalo NY, had eyes opened about racism.

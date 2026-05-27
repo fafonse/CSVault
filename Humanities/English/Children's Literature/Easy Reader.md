@@ -1,1 +1,0 @@
-Most easy readers have a max of **5 letters** in their words.

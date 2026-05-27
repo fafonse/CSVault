@@ -1,1 +1,0 @@
-Code that can be read and executed by hardware. Typically some version of [[Assembly|assembly]].

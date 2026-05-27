@@ -1,3 +1,0 @@
-- *EM* - Based on font size, 1em is one font size
-- *Pixels* - Not recommended, since it doesn't scale automatically
-- *FR*

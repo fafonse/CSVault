@@ -1,1 +1,0 @@
-Deliberation seeks to determine means to an end, i.e what is most useful to do.

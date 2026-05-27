@@ -1,1 +1,0 @@
-The first words that beginner readers recognize. They are often known simply from sight, not really read in a way.
