@@ -1,0 +1,24 @@
+## IPV4 Format
+- IP version number field
+- Header length (bytes)
+	- Tells handler where the payload begins
+- Datagram Length (bytes)
+	- Can be used to compute payload length
+	- Max Length: 64K
+	- Usually 1500 bytes
+- Service bits
+	- "type" of service
+- TTL
+	- Decrements by one when passed by a router
+- Upper layer protocol
+	- e.g TCP or UDP
+- IP ID + Fragment/assembly
+	- Used to identify packets when fragmented across multiple packets
+- Header checksum
+	- Must be recomputed at each router hopped through
+	- *Removed in IPV6*
+- 32-bit source IP
+- 32-bit destination IP
+- Options
+	- e.g, timestamp, record route taken
+- The Payload

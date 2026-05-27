@@ -1,0 +1,1 @@
+How [[Generalized Forwarding|generalized forwarding]] matches header data to data [[Flow Table Abstraction|flow]]. This means every "bit-match" of x type that the system finds .

@@ -1,0 +1,1 @@
+AWS uses HTTPS to loosely connect the different parts of the system. Once you get past the [[API Gateway]], you can then interact with different parts of the system with HTTP.

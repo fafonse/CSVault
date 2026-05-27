@@ -1,0 +1,1 @@
+The amount of error you can afford in your calculations. Usually represented with the alpha symbol ($\alpha$).

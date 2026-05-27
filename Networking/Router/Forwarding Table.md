@@ -1,0 +1,1 @@
+A data structure used by network devices like routers and switches to determine the next hop or output interface for data packets, ensuring efficient delivery within a network. It maps destination addresses to specific ports, allowing devices to forward packets accurately and quickly.
