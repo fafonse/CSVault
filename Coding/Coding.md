@@ -18,6 +18,11 @@ Notes specific to each language
 	- [[Slowness]]
 	- [[SQL]]
 	- [[Table Scan]]
+- **Git**
+	- [[Git Branching]]
+	- [[Merge Conflicts]]
+	- [[Merging Changes]]
+	- [[Rebase]]
 - **JavaScript**
 	- [[Arrays]]
 	- [[Element Methods]]

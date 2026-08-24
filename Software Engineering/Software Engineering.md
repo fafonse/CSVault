@@ -1,6 +1,20 @@
 Techniques and strategies for building effective software efficiently.
 
 %% Begin Waypoint %%
+- **API**
+	- **[[AWS]]**
+		- [[Cloudwatch]]
+		- [[Protocols]]
+		- [[Role]]
+	- [[API Gateway]]
+	- [[Azure]]
+	- [[ES6]]
+	- [[React]]
+	- [[Redux]]
+	- [[RESTful]]
+	- [[UML]]
+	- [[Vue]]
+	- [[Webpack]]
 - **Architecture**
 	- [[Architecture Concepts]]
 	- [[Containerizaiton]]
@@ -22,6 +36,78 @@ Techniques and strategies for building effective software efficiently.
 - **HTTP**
 	- [[HTTP API]]
 	- [[HTTP Requests]]
+- **Networking**
+	- **[[Internet Hierarchy]]**
+		- [[Access Network]]
+		- [[Core Network]]
+	- **[[Internet Protocol]]**
+		- [[CIDR]]
+		- [[Dynamic Host Configuration Protocol]]
+		- [[Interface]]
+		- [[IP Datagram]]
+		- [[IP Hourglass]]
+		- [[IPV4 Address]]
+		- [[IPV4]]
+		- [[IPV6]]
+		- [[Subnet]]
+		- [[Tunneling]]
+	- **[[Layered Internet Protocol Stack]]**
+		- **[[Link Layer]]**
+			- [[ARP]]
+			- [[Error Detection]]
+			- [[LAN]]
+			- [[MAC address]]
+			- [[Switches]]
+		- **[[Network Layer]]**
+			- **Path-selection Algorithms**
+				- [[BGP]]
+				- [[OSPF]]
+			- [[ICMP Protocol]]
+		- **[[Transport Layer]]**
+			- **[[Multiplexing]]**
+				- [[Frequency Division Multiplexing]]
+				- [[Time Division Multiplexing]]
+			- [[vs. Other Layers]]
+		- [[Architectural Layering]]
+		- [[Encapsulation]]
+	- **Router**
+		- **[[Generalized Forwarding]]**
+			- [[Flow Table Abstraction]]
+			- [[Match-Action]]
+		- [[Decentralized Switching]]
+		- [[Forwarding Table]]
+		- [[Head of Line Blocking]]
+		- [[Longest Prefix Matching]]
+		- [[Output Port Queuing]]
+		- [[Router Architecture]]
+		- [[Routing Algorithm Classification]]
+		- [[Switching Fabric]]
+	- **[[Transport Protocols]]**
+		- **[[Reliable Data Transfer]]**
+			- [[RDT Versions]]
+		- **[[Transmission Control Protocol]]**
+			- [[Handshaking]]
+			- [[Round Trip Time]]
+			- [[TCP Competition]]
+		- [[Hyper Text Transfer Protocol]]
+		- [[Quick UDP]]
+		- [[User Datagram Protocol]]
+	- [[Bloom Filter]]
+	- [[Circuit Switching]]
+	- [[Data Packet]]
+	- [[Domain Name Server]]
+	- [[FCFS]]
+	- [[Link State]]
+	- [[Modem]]
+	- [[Net Neutrality]]
+	- [[Network Core]]
+	- [[Packet Delay]]
+	- [[Packet Switching]]
+	- [[Peer to Peer]]
+	- [[Pipelining]]
+	- [[Socket]]
+	- [[Transmission Media]]
+	- [[Utilization]]
 - **[[Software Process]]**
 	- **[[AGILE]]**
 		- [[Business Context]]
