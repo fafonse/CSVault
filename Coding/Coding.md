@@ -1,6 +1,8 @@
 Notes specific to each language
 
 %% Begin Waypoint %%
+- **[[C Sharp]]**
+	- [[Exceptions]]
 - **C++**
 	- [[++]]
 	- [[Callbacks]]
@@ -32,7 +34,6 @@ Notes specific to each language
 - **[[Python]]**
 - [[Assembly]]
 - [[Assert]]
-- [[C Sharp]]
 - [[CSS]]
 - [[Go]]
 - [[Guards]]
