@@ -31,7 +31,6 @@ Techniques and strategies for building effective software efficiently.
 	- [[Data Validation]]
 	- [[Exception Handling]]
 	- [[Logging]]
-	- [[Software Engineering/Defensive Programming/Unit Tests]]
 	- [[Vulnerabilities]]
 - **HTTP**
 	- [[HTTP API]]
@@ -121,12 +120,13 @@ Techniques and strategies for building effective software efficiently.
 		- [[Docker and Deployment]]
 		- [[Refactoring]]
 		- [[Scalability]]
+	- **[[Test-Driven Development]]**
+		- [[Unit Tests]]
 	- [[Measuring Success]]
 	- [[Product Manager]]
 	- [[Risk Classification and Factors]]
 	- [[Software Process Phases]]
 	- [[Software Requirements]]
-	- [[Test-Driven Development]]
 	- [[Waterfall]]
 - [[Dynamo DB planning]]
 - [[Factors for Good Software]]

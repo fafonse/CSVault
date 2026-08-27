@@ -5,7 +5,6 @@ Programming for failure.
 - [[Data Validation]]
 - [[Exception Handling]]
 - [[Logging]]
-- [[Software Engineering/Defensive Programming/Unit Tests]]
 - [[Vulnerabilities]]
 
 %% End Landmark %%
