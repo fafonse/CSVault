@@ -1,0 +1,1 @@
+The system of workings developed to discover, follow, and extract valuable mineral deposits.

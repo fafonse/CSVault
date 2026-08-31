@@ -1,0 +1,3 @@
+- Igneous
+- Metamorphic
+- Sedimentary
