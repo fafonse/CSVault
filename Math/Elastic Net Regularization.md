@@ -7,6 +7,7 @@ Elastic net has something called *hyperparameters*, so aside from optimizing the
 **Alpha ($\alpha$)**:
 - Controls the amount of regularization
 - Using `scikit.learn`, we instead use $C$, which is the inverse of $\alpha$
+
 **L1 Ratio**:
 - Controls the mixing between LASSO and Ridge models
 - A L1 of zero means a completely LASSO model, while a L1 of one is a completely Ridge model
