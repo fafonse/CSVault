@@ -3,7 +3,7 @@ Notes specific to each language
 %% Begin Waypoint %%
 - **[[C Sharp]]**
 	- [[Exceptions]]
-	- [[Coding/C Sharp/Unit Tests]]
+	- [[Unit Tests]]
 - **C++**
 	- [[++]]
 	- [[Callbacks]]
