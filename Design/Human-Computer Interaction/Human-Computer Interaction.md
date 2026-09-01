@@ -9,5 +9,6 @@ How humans "talk" with highly complex computer systems.
 - [[Bill Buxton]]
 - [[History]]
 - [[Prototyping]]
+- [[Storyboarding]]
 
 %% End Waypoint %%

@@ -3,6 +3,8 @@ Notes specific to each language
 %% Begin Waypoint %%
 - **[[C Sharp]]**
 	- [[Exceptions]]
+	- [[Namespaces]]
+	- [[String Operations]]
 	- [[Unit Tests]]
 - **C++**
 	- [[++]]
@@ -43,8 +45,10 @@ Notes specific to each language
 - [[Kotlin]]
 - [[PHP]]
 - [[Polymorphism]]
+- [[Regular Expressions]]
 - [[Ruby]]
 - [[Stack and Heap]]
+- [[String Literal]]
 - [[Typescript]]
 
 %% End Waypoint %%
