@@ -19,6 +19,11 @@ Also **non-programmers can participate**.
 	- High suspension of disbelief
 - End users can't use it themselves
 - Can't show to clients
+### Medium Fidelity
+- "Schematics" or "wireframes"
+- Layout and basic details
+- Minimal color, icons, logos, etc.
+- Generally respectable enough to show clients
 
 ### High fidelity
 - Looks like the final product

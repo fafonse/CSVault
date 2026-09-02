@@ -1,0 +1,1 @@
+A cognitive bias that limits a person to using an object to the way it's traditionally used.

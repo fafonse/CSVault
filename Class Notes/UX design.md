@@ -1,0 +1,4 @@
+- Most deadlines are one hour before class Wednesday, sometimes Monday
+	- No personal exceptions
+- No external resources during quizzes/notes
+	- You must be in class to take the class
