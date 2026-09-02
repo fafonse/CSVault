@@ -35,6 +35,10 @@ Notes specific to each language
 	- [[Print Statement]]
 	- [[Standard Libraries]]
 - **[[Python]]**
+- **Structured File Formats**
+	- [[CSV]]
+	- [[JSON]]
+	- [[XML]]
 - [[Assembly]]
 - [[Assert]]
 - [[CSS]]
