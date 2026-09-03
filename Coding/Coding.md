@@ -4,6 +4,8 @@ Notes specific to each language
 - **[[C Sharp]]**
 	- [[Exceptions]]
 	- [[Namespaces]]
+	- [[Nullable Typing]]
+	- [[Out by Parameter]]
 	- [[String Operations]]
 	- [[Unit Tests]]
 - **C++**

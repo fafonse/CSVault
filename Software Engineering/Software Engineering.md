@@ -16,7 +16,9 @@ Techniques and strategies for building effective software efficiently.
 	- [[Vue]]
 	- [[Webpack]]
 - **Architecture**
+	- [[Anti Patterns]]
 	- [[Architecture Concepts]]
+	- [[Code Smell]]
 	- [[Containerizaiton]]
 	- [[Design Patterns]]
 - **Clearinghouse**

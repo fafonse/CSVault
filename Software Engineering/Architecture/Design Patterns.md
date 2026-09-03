@@ -1,5 +1,7 @@
 Different patterns that software follows with it's design. Think about how it changes data/starts events.
 
+> Only use these if your current original design doesn't work/is weird. 
+
 ## Adapter
 Making so that one system can work with a different system.
 - You become the middle man
