@@ -3,8 +3,10 @@ Notes specific to each language
 %% Begin Waypoint %%
 - **[[C Sharp]]**
 	- [[Exceptions]]
+	- [[Extensions]]
 	- [[Namespaces]]
 	- [[Nullable Typing]]
+	- [[Out and Ref]]
 	- [[Out by Parameter]]
 	- [[String Operations]]
 	- [[Unit Tests]]
@@ -30,12 +32,16 @@ Notes specific to each language
 	- [[Merge Conflicts]]
 	- [[Merging Changes]]
 	- [[Rebase]]
+- **[[Java]]**
 - **JavaScript**
 	- [[Arrays]]
 	- [[Element Methods]]
 	- [[Event Listener]]
 	- [[Print Statement]]
 	- [[Standard Libraries]]
+- **Memory Management**
+	- [[Pass By Reference]]
+	- [[Pass By Value]]
 - **[[Python]]**
 - **Structured File Formats**
 	- [[CSV]]
@@ -47,7 +53,6 @@ Notes specific to each language
 - [[Go]]
 - [[Guards]]
 - [[HTML]]
-- [[Java]]
 - [[Kotlin]]
 - [[PHP]]
 - [[Polymorphism]]
@@ -55,6 +60,7 @@ Notes specific to each language
 - [[Ruby]]
 - [[Stack and Heap]]
 - [[String Literal]]
+- [[Syntactic Sugar]]
 - [[Typescript]]
 
 %% End Waypoint %%

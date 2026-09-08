@@ -1,8 +1,7 @@
 Different ways of storing code in memory (RAM)
 
 ### Stack
-
-A stack, similar to an array. A continuous block of data. Because there's no key-pairs, the lookup for memory is very fast.
+A stack, similar to an array. A continuous block of data. Because there's no [[Dictionaries|key-pairs]], the lookup for memory is very fast.
 Memory management is a bit annoying though, since you have to *pop* the "top" of the memory before you can discard the bottom.
 
 ```
@@ -18,14 +17,12 @@ int b -> int a -> print() -> main()
 - Size fixed at a compile/runtime limit
 - Lifetime = scope ({} / function)
 
-**Stores**:
-- local variables, function parameters, return addresses
-**Risks**:
-- No manual free, stack overflow
-**Examples:**
-- ``int x``, ``std::string s``
-## Heap
 
+| Stores       | local variables, function parameters, return addresses |
+| ------------ | ------------------------------------------------------ |
+| **Risks**    | No manual free, stack overflow                         |
+| **Examples** | ``int x``, ``std::string s``                           |
+## Heap
 A dynamic, large storage solution. Much more flexible than a stack, but a lot slower (memory must be searched).
 
 - Dynamic Storage
@@ -34,12 +31,11 @@ A dynamic, large storage solution. Much more flexible than a stack, but a lot sl
 - Dynamic lifetime
 - Manual management
 
-**Stores**:
-- Dynamically allocated objects
-**Risks:**
-- Leaks, dangling pointers, fragmentation
-**Preferred**:
-- ``std::unique_ptr``, ``std::shared_ptr``, ``std::vector``
+| Stores        | Dynamically allocated objects<br>                             |
+| ------------- | ------------------------------------------------------------- |
+| **Risks**     | Leaks, dangling pointers, fragmentation<br>                   |
+| **Preferred** | ``std::unique_ptr``, ``std::shared_ptr``, ``std::vector``<br> |
 
-**Example**:
-- ``auto p = new Foo;`` (avoid raw new)
+```c++
+auto p = new Foo; // (avoid raw new)
+``` 
