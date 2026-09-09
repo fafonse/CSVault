@@ -1,4 +1,5 @@
 %% Begin Waypoint %%
+- **[[Descriptive Statistics]]**
 - **Discreet Math**
 	- [[Applications of Congruency]]
 	- [[Axiom]]
@@ -43,7 +44,6 @@
 	- [[Q-Q Plot]]
 	- [[ROC Curve]]
 	- [[Venn Diagrams]]
-- [[5 Number Summary]]
 - [[ANOVA]]
 - [[ARIMA]]
 - [[Baye's Rule]]
