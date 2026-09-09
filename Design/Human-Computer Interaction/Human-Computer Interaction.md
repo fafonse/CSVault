@@ -5,13 +5,15 @@ aliases:
 How humans "talk" with highly complex computer systems.
 
 %% Begin Waypoint %%
+- **[[History]]**
+	- [[Bill Buxton]]
 - [[Batch Processing]]
-- [[Bill Buxton]]
 - [[Functional Fixation]]
-- [[History]]
 - [[Ideation]]
 - [[Paper Prototype HW 1]]
 - [[Prototyping]]
 - [[Storyboarding]]
+- [[User Testing]]
+- [[Wizard of Oz Technique]]
 
 %% End Waypoint %%
