@@ -56,11 +56,8 @@ Notes specific to each language
 - [[Kotlin]]
 - [[PHP]]
 - [[Polymorphism]]
-- [[Regular Expressions]]
 - [[Ruby]]
 - [[Stack and Heap]]
-- [[String Literal]]
-- [[Syntactic Sugar]]
 - [[Typescript]]
 
 %% End Waypoint %%
