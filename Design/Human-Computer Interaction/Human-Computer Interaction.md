@@ -10,6 +10,7 @@ How humans "talk" with highly complex computer systems.
 - [[Functional Fixation]]
 - [[History]]
 - [[Ideation]]
+- [[Paper Prototype HW 1]]
 - [[Prototyping]]
 - [[Storyboarding]]
 
