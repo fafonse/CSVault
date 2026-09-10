@@ -8,6 +8,7 @@ Notes specific to each language
 	- [[Nullable Typing]]
 	- [[Out and Ref]]
 	- [[Out by Parameter]]
+	- [[Properties]]
 	- [[String Operations]]
 	- [[Unit Tests]]
 - **C++**
@@ -56,8 +57,11 @@ Notes specific to each language
 - [[Kotlin]]
 - [[PHP]]
 - [[Polymorphism]]
+- [[Regular Expressions]]
 - [[Ruby]]
 - [[Stack and Heap]]
+- [[String Literal]]
+- [[Syntactic Sugar]]
 - [[Typescript]]
 
 %% End Waypoint %%

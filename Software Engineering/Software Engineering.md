@@ -123,6 +123,7 @@ Techniques and strategies for building effective software efficiently.
 		- [[Refactoring]]
 		- [[Scalability]]
 	- **[[Test-Driven Development]]**
+		- [[Code Coverage]]
 		- [[Unit Tests]]
 	- [[Measuring Success]]
 	- [[Product Manager]]

@@ -9,3 +9,7 @@
 - No unnecessary complexity
 - No non-private helper methods/member variables
 - No debug/TODO/print statements in code
+
+## Dependency maps
+Have a [[Dictionaries|hashmap]] that has dependents as they key and who they depend on as their value.
+- Now do it the other way around, dependencies as keys, those who need them as values
