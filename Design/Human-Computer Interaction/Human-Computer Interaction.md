@@ -10,7 +10,6 @@ How humans "talk" with highly complex computer systems.
 - [[Batch Processing]]
 - [[Functional Fixation]]
 - [[Ideation]]
-- [[Paper Prototype HW 1]]
 - [[Prototyping]]
 - [[Storyboarding]]
 - [[User Testing]]
