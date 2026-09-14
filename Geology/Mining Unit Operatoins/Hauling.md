@@ -1,0 +1,1 @@
+Moving the loaded rock out of the mine.

@@ -1,0 +1,1 @@
+Raw materials gathered from a mine. It has no processing applied, and is very *variable* because of it.
