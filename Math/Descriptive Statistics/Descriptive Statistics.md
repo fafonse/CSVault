@@ -8,6 +8,8 @@ Describing a dataset with a small number of statistics or figures.
 	- [[Ratio]]
 - [[5 Number Summary]]
 - [[Discrete vs. Continuous]]
+- [[Exploratory Data Analysis]]
+- [[Good Questions]]
 - [[Likert Scale]]
 
 %% End Waypoint %%
