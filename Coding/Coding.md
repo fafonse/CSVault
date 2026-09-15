@@ -2,6 +2,7 @@ Notes specific to each language
 
 %% Begin Waypoint %%
 - **[[C Sharp]]**
+	- [[Delegate]]
 	- [[Exceptions]]
 	- [[Extensions]]
 	- [[Namespaces]]

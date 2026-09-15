@@ -13,3 +13,6 @@
 ## Dependency maps
 Have a [[Dictionaries|hashmap]] that has dependents as they key and who they depend on as their value.
 - Now do it the other way around, dependencies as keys, those who need them as values
+
+## Formula Delegates
+Use [[Delegate|delegates]] for the lookup function for variables when evaluating formulas. For testing we can do a mock LookUp that just returns from a dictionary we have set for examples. Make sure that your formula class can handle the Lookup throwing an error.  
