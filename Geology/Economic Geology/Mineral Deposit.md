@@ -1,0 +1,1 @@
+A localized, naturally occurring anomaly of accumulated [[Mineral|minerals]] that occur in higher concentrations than in the surrounding [[Rock|rock]], making it geologically significant.

@@ -1,0 +1,1 @@
+A [[Mineral Deposit|mineral deposit]] that is considered profitable.

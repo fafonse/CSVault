@@ -1,0 +1,1 @@
+Use a solvent to dissolve the ore and pump it out. You need a water table that can support it though.

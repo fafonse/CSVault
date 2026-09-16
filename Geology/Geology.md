@@ -5,8 +5,18 @@ The study of the Earth.
 	- [[Enrichment]]
 	- [[Grade]]
 	- [[Mine]]
+	- [[Mineral Deposit]]
+	- [[Mineral]]
 	- [[Mining]]
+	- [[Natural Resources]]
+	- [[Ore Deposit]]
 	- [[Ore]]
+	- [[Rock]]
+- **Mining Methods**
+	- **Surface**
+		- [[Leaching]]
+	- **Underground**
+		- [[Caving]]
 - **[[Mining Unit Operatoins]]**
 	- [[Fragmentation]]
 	- [[Hauling]]
@@ -15,5 +25,6 @@ The study of the Earth.
 - [[Landforms]]
 - [[Rock Cycle]]
 - [[Run-of-Mine]]
+- [[Types of Mineral Deposits]]
 
 %% End Waypoint %%
