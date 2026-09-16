@@ -1,0 +1,45 @@
+%% Begin Waypoint %%
+- **[[Descriptive Statistics]]**
+- **[[Inferential Statistics]]**
+	- **[[Continuous Probability Distributions]]**
+	- **[[Discrete Probability Distributions]]**
+	- **[[Hypothesis Testing]]**
+		- [[P-Value]]
+		- [[Significance Level]]
+	- [[Cumulative Distribution Function]]
+	- [[Percent-Point Function]]
+	- [[Probability Distribution]]
+	- [[Probability Mass Function]]
+- [[ANOVA]]
+- [[ARIMA]]
+- [[Baye's Rule]]
+- [[Class Weighting]]
+- [[Confidence Intervals]]
+- [[Cross Validation]]
+- [[Elastic Net Regularization]]
+- [[Generalized Linear Model]]
+- [[Independent Events]]
+- [[Linear Regression]]
+- [[Logarithmic Regression]]
+- [[Measures of Center]]
+- [[Ordinary Least Squares]]
+- [[Outliers]]
+- [[Pearson's Correlation Coefficient]]
+- [[Percentile and Quarters]]
+- [[Probability]]
+- [[Residuals]]
+- [[Sensitivity and Specificity]]
+- [[Simpson Paradox]]
+- [[Skewness]]
+- [[Sparsity]]
+- [[Spearmans Correlation Coefficient]]
+- [[Standard Deviation]]
+- [[Standardization]]
+- [[T Distribution]]
+- [[Time Series Analysis]]
+- [[Time Series Decomposition]]
+- [[Time Series]]
+- [[Variability in a Dataset]]
+- [[Z-Test]]
+
+%% End Waypoint %%

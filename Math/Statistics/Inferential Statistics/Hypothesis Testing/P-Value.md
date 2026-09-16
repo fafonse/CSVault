@@ -1,4 +1,4 @@
-The probability of seeing the results in your example if a given [[Hypothesis|hypothesis]] is true.
+The probability of seeing the results in your example if a given [[Hypothesis|null hypothesis]] is true.
 
 **Small Value** - Your data is unlikely to fit your hypothesis
 **Big Value** - Your data likely fits your hypothesis

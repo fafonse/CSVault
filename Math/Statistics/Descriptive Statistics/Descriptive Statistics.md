@@ -9,7 +9,6 @@ Describing a dataset with a small number of statistics or figures.
 	- [[Ordinal]]
 	- [[Ratio]]
 - [[5 Number Summary]]
-- [[Discrete vs. Continuous]]
 - [[Good Questions]]
 - [[Likert Scale]]
 
