@@ -2,9 +2,11 @@ Notes specific to each language
 
 %% Begin Waypoint %%
 - **[[C Sharp]]**
+	- [[Actions]]
 	- [[Delegate]]
 	- [[Exceptions]]
 	- [[Extensions]]
+	- [[Func]]
 	- [[Namespaces]]
 	- [[Nullable Typing]]
 	- [[Out and Ref]]

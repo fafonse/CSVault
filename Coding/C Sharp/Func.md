@@ -1,0 +1,1 @@
+A bunch of pre-declared [[Delegate|delegates]] that have a predetermined return type.
