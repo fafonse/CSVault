@@ -1,0 +1,1 @@
+A fabric of repeated layers within a metamorphic rock.

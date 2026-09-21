@@ -1,4 +1,4 @@
-A naturally ocurring inorganic element or compound having an orderly internal structure an da characteristic chemical composition, crystal form, and physical properties.
+A naturally ocurring inorganic element or compound having an orderly internal structure and a characteristic chemical composition, crystal form, and physical properties.
 
 or...
 

@@ -1,0 +1,1 @@
+A *metamorphic* [[Rock|rock]] characterized by minerals that have become strongly aligned into *layers or sheets* because the rock was subjected to heat and directed pressure.

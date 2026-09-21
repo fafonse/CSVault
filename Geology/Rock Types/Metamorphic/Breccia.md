@@ -1,0 +1,1 @@
+A rock composed of broken, angular fragments of rock that have been *cemented* or otherwise bound together. 
