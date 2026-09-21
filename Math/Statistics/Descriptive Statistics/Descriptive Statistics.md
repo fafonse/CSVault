@@ -11,6 +11,11 @@ Describing a dataset with a small number of statistics or figures.
 - [[5 Number Summary]]
 - [[Good Questions]]
 - [[Likert Scale]]
+- [[Measures of Center]]
+- [[Outliers]]
+- [[Percentile and Quarters]]
+- [[Skewness]]
+- [[Sparsity]]
 
 %% End Waypoint %%
 

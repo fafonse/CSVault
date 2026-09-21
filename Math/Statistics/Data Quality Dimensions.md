@@ -1,0 +1,31 @@
+- Accessibility
+	- Data is available, easy and quickly retrievable
+- Appropriate
+	- Volume of data is appropriate
+- Believable
+	- Data is regarded as true and credible
+- Completeness
+	- Data is not missing, has sufficient breadth and depth
+- Concise
+	- Data is compactly represented
+- Consistent
+	- Data is presented in the same format
+- Customizable
+	- Data is easy to transform and apply to different tasks
+- Free-of-error
+	- Data is correct and reliable
+- Objective
+	- Data is unbiased, unprejudiced, and impartial
+- Relevant
+	- Data is applicable and helpful
+- Reputation
+	- Source and content of data is highly regarded
+- Security
+	- Data access is appropriately restricted
+	- Treat your findings respectfully
+- Timeliness
+	- Data is up-to-date
+- Understandability
+	- Data is easy to comprehend
+- Value-added
+	- Data is beneficial and provides advantages

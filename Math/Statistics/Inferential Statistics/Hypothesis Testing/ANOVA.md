@@ -1,6 +1,6 @@
 *Analysis of Variance*
 
-A method that determines if the means of 2+ populations are the same. Way easier than doing several [[Hypothesis Testing#Two Sample Testing|two sampled]] tests for every pair.
+A method that determines if the means of 2+ populations are the same. Way easier than doing several [[Hypothesis Testing#Two Sample Testing|two sampled]] tests for every pair. However, to get more specific results, you would need to do a [[ANOVA#Tukey Honestly Significant Difference|Tukey]]/*Bonferroni*/*Dunn-Sidak* test.
 
 
 ## Construction
@@ -19,6 +19,8 @@ $H_{n}$: all means are equal
 **Test Statistic:**
 The test statistic is $F$ in this case. It's just the ratio of between group variance compared to the variance within the groups.
 $F = \frac{\text{between group variance}}{\text{within group variance}}$
+
+[^1]: ANOVA is considered [[Hypothesis Testing#Two Sample Testing|two-tailed]]
 
 **ANOVA table:**
 - For $n$ amount of groups, you create a sample $y$ by drawing a random observation from each group, creating $n$ samples $n$ long.
@@ -53,7 +55,7 @@ anova_table = sm.stats.anova_lm(model, typ=2)
 ```
 
 
-### Tukey Method
+### Tukey Honestly Significant Difference
 
 Used for multiple comparison of means, showing which allows you to get more specific and find how different the individual means are from each other. 
 
@@ -64,4 +66,3 @@ res.tukey_hsd(df=df_melt,res_var='value',xfac_var='treatements',anova_model='dif
 res.tukey_summary()
 ```
 
-[^1]: ANOVA is considered [[Hypothesis Testing#Two Sample Testing|two-tailed]]
