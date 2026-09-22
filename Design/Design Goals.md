@@ -5,7 +5,23 @@ The effectiveness, efficiency, and satisfaction with which specified users achie
 - Want to make sure we make progress
 	- Make SMART goals
 
+## Non-Usability Goals
+Goals about shit that the *user does not experience*.
+- Water resistant
+- Durability
+- Low manufacturing cost
+- Repariability
+- Portability
+- Low shipment cost
+- Weight
 ## Usability Goals
-A subset of design goals. These are the goals centered around the *user experience*.
+These are the goals centered around the *user experience*.
 
-EX: Easy to learn, task takes X time, task takes X clicks
+- Intuitive
+- Error tolerance
+- Easy to remember how to use over time
+- Flexibility
+- Feels good to use
+- Easy to update/upgrade
+- Consistent internally/externally
+- Predictable

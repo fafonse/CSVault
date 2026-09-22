@@ -131,6 +131,7 @@ Techniques and strategies for building effective software efficiently.
 	- [[Software Process Phases]]
 	- [[Software Requirements]]
 	- [[Waterfall]]
+- [[Closure]]
 - [[Dynamo DB planning]]
 - [[Factors for Good Software]]
 
