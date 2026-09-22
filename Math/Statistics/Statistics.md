@@ -23,7 +23,6 @@
 - [[Class Weighting]]
 - [[Confidence Intervals]]
 - [[Cross Validation]]
-- [[Data Quality Dimensions]]
 - [[Elastic Net Regularization]]
 - [[Generalized Linear Model]]
 - [[Independent Events]]

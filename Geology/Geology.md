@@ -21,7 +21,6 @@ The study of the Earth.
 	- [[Mineral Deposit]]
 	- [[Mineral]]
 	- [[Mining]]
-	- [[Modifying Factor]]
 	- [[Natural Resources]]
 	- [[Ore Deposit]]
 	- [[Ore]]
@@ -29,7 +28,6 @@ The study of the Earth.
 	- **[[Metamorphic]]**
 - [[Landforms]]
 - [[Rock Cycle]]
-- [[Rock]]
 - [[Run-of-Mine]]
 - [[Types of Mineral Deposits]]
 
