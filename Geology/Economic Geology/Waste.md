@@ -1,0 +1,1 @@
+Anything that is mined at a lost.

@@ -2,9 +2,11 @@ The study of the Earth.
 
 %% Begin Waypoint %%
 - **Economic Geology**
-	- **Mining**
+	- **[[Mining]]**
 		- **Mining Methods**
 			- **Surface**
+				- [[Dredging]]
+				- [[Hydraulicking]]
 				- [[Leaching]]
 			- **Underground**
 				- [[Caving]]
@@ -13,22 +15,25 @@ The study of the Earth.
 			- [[Hauling]]
 			- [[Loading]]
 			- [[Mineral Processing]]
+		- [[Mine]]
+		- [[Run-of-Mine]]
 	- [[CRIRSCO]]
 	- [[Enrichment]]
 	- [[Geostatistics Terms]]
 	- [[Grade]]
-	- [[Mine]]
 	- [[Mineral Deposit]]
 	- [[Mineral]]
-	- [[Mining]]
+	- [[Modifying Factor]]
 	- [[Natural Resources]]
 	- [[Ore Deposit]]
 	- [[Ore]]
+	- [[Waste]]
 - **Rock Types**
 	- **[[Metamorphic]]**
 - [[Landforms]]
+- [[Mining Resources]]
 - [[Rock Cycle]]
-- [[Run-of-Mine]]
+- [[Rock]]
 - [[Types of Mineral Deposits]]
 
 %% End Waypoint %%
