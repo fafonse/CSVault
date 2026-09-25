@@ -34,6 +34,7 @@ The study of the Earth.
 - [[Mining Resources]]
 - [[Rock Cycle]]
 - [[Rock]]
+- [[Sources for Paper 1]]
 - [[Types of Mineral Deposits]]
 
 %% End Waypoint %%
