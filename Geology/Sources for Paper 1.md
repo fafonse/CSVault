@@ -7,3 +7,4 @@ _Copper_. United States Geological Survey, Mineral Commodity Summaries, Jan. 202
 “Froth Flotation Process.” _911Metallurgist_, 911 Metallurgy Corp., 25 Sept. 2026, https://www.911metallurgist.com/blog/froth-flotation-process
 “Purifying Copper by Electrolysis.” _BBC Bitesize_, BBC, 25 Sept. 2026, https://www.bbc.co.uk/bitesize/guides/zyg73k7/revision/4
 Crowson, Phillip. “Some observations on copper yields and ore grades.” _Resources Policy_, Elsevier, Mar. 2012, https://www.sciencedirect.com/science/article/pii/S0301420711000791
+“Kennecott” _Kennecott | Global_, Rio Tinto, https://www.riotinto.com/en/Operations/us/kennecott. Accessed 25 September 2026.
