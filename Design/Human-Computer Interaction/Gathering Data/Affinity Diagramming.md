@@ -1,0 +1,9 @@
+- One key concept, item, or observation per sticky note
+	- **Cluster similar items as you go**
+- Label emerging themes
+	- Different colors is a good idea
+- Group clusters into super clusters if viable
+- Clusters should be ~6 items, 10 max
+- Identical items can be stacked (not similar)
+- Nothing is static
+- Can add to it overtime as you conduct more [[Contextual Inquiry|contextual inquiries]]

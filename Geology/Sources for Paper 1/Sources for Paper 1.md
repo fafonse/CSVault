@@ -9,6 +9,7 @@ _Copper_. United States Geological Survey, Mineral Commodity Summaries, Jan. 202
 Crowson, Phillip. “Some observations on copper yields and ore grades.” _Resources Policy_, Elsevier, Mar. 2012, https://www.sciencedirect.com/science/article/pii/S0301420711000791
 Britannica Editors. "porphyry copper deposit". Encyclopedia Britannica, 19 May. 2008, https://www.britannica.com/science/porphyry-copper-deposit. Accessed 28 September 2026.
 “Kennecott” _Kennecott | Global_, Rio Tinto, https://www.riotinto.com/en/Operations/us/kennecott. Accessed 25 September 2026.
+“Annual Report 2025.” Rio Tinto, 1 Jan. 2026, https://cdn-rio.dataweavers.io/-/media/content/documents/invest/reports/annual-reports/2025-annual-report.pdf
 
 %% Begin Waypoint %%
 - [[911Metal]]

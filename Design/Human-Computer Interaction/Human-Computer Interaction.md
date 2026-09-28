@@ -5,10 +5,15 @@ aliases:
 How humans "talk" with highly complex computer systems.
 
 %% Begin Waypoint %%
+- **Gathering Data**
+	- [[Affinity Diagramming]]
+	- [[Contextual Inquiry]]
+	- [[Ethnography]]
 - **[[History]]**
 	- [[Bill Buxton]]
 - **[[Prototyping]]**
 	- [[Bodystorming]]
+	- [[Ideation]]
 	- [[Product Video]]
 	- [[Storyboarding]]
 	- [[User Testing]]
@@ -17,6 +22,5 @@ How humans "talk" with highly complex computer systems.
 	- [[Wizard of Oz Technique]]
 - [[Batch Processing]]
 - [[Functional Fixation]]
-- [[Ideation]]
 
 %% End Waypoint %%
