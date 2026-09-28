@@ -41,14 +41,6 @@
 	- [[LaTeX Cheats]]
 	- [[Working with Shitty Graphs]]
 - **[[Statistics]]**
-- **Visuals**
-	- [[Box Plots]]
-	- [[Heatmaps]]
-	- [[Normal Probability Plot]]
-	- [[Odds Ratio Curve]]
-	- [[Q-Q Plot]]
-	- [[ROC Curve]]
-	- [[Venn Diagrams]]
 - [[Discrete vs. Continuous]]
 
 %% End Waypoint %%

@@ -1,0 +1,1 @@
+A visual way of representing [[Logarithmic Regression]] [[Sensitivity and Specificity|accuracy]]. A more accurate model has it's curve leaning into the top-left corner.
