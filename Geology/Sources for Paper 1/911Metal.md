@@ -1,0 +1,9 @@
+- Froth flotation invented in 1906
+- Mineral slurry is put into a frother, which are then primed using several chemicals. These cause the selected minerals to become hydrophobic. After being "primed", the Ph of the water is changed to select a specific ore to extract. The ore then sticks to the rising bubble column, and away from the rest of the muck.
+- Operated from mill men and metallurgists
+- Used for copper
+- Method is quite complex and expensive, and variable according to the slime input
+- Almost all minerals can be separated this way.
+- Expensive to build, but does well at scale
+	- Labor costs recuperated after 1,000 tons a day are processed.
+- Copper would not be produced at scale the way it is today without froth flotation

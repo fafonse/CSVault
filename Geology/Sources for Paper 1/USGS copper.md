@@ -1,0 +1,9 @@
+- Copper recovered from scrap accounted for 38% of all US supply
+- Copper is mostly used in building construction
+	- Wiring
+- Finland provided 75%, majority, of blister and nodes
+- Canada provided the most imports of matte, ash, and precipitates at 27%
+- Canada provides 55% of scrap imported
+- A U.S. Geological Survey study of global copper deposits indicated that, as of 2015, identified resources contained 2.1 billion tons of copper, and undiscovered resources contained an estimated 3.5 billion tons.
+- Aluminum, titanium, steel, optical fiber, and plastic are all seen as viable substitutes for copper products
+	- Plastic, yuck

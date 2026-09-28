@@ -1,0 +1,5 @@
+- Used to craft copper armor/tools, some Redstone items, a lot of decorative items and golems
+- Oxidizes over time
+- Common, shallow ore
+- Smelted using a furnace or smelter
+	- Immediately get a purified copper bar

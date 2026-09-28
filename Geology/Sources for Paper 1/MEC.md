@@ -1,0 +1,5 @@
+- Worlds leading producer is Chile
+- Ductile, malleable, and an excellent conductor of electricity
+- Majority of copper produced in US is from Arizona
+- Surface mining accounts for the majority of copper domestically + internationally
+- Copper is used in animal feeds and fertilizers

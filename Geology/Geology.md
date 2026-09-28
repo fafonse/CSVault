@@ -30,11 +30,11 @@ The study of the Earth.
 	- [[Waste]]
 - **Rock Types**
 	- **[[Metamorphic]]**
+- **[[Sources for Paper 1]]**
 - [[Landforms]]
 - [[Mining Resources]]
 - [[Rock Cycle]]
 - [[Rock]]
-- [[Sources for Paper 1]]
 - [[Types of Mineral Deposits]]
 
 %% End Waypoint %%

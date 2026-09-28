@@ -1,0 +1,4 @@
+- Operates the bingham canyon mine
+- There are only 2 copper smelters in the US
+- The Binham Canyon Mine releases ~333,333 tonnes of carbon dioxide annually
+- Open pit mine

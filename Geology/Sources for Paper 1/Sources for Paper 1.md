@@ -8,3 +8,14 @@ _Copper_. United States Geological Survey, Mineral Commodity Summaries, Jan. 202
 “Purifying Copper by Electrolysis.” _BBC Bitesize_, BBC, 25 Sept. 2026, https://www.bbc.co.uk/bitesize/guides/zyg73k7/revision/4
 Crowson, Phillip. “Some observations on copper yields and ore grades.” _Resources Policy_, Elsevier, Mar. 2012, https://www.sciencedirect.com/science/article/pii/S0301420711000791
 “Kennecott” _Kennecott | Global_, Rio Tinto, https://www.riotinto.com/en/Operations/us/kennecott. Accessed 25 September 2026.
+
+%% Begin Waypoint %%
+- [[911Metal]]
+- [[Copper yeilds and grades]]
+- [[Electrolysis]]
+- [[Kennecott]]
+- [[MEC]]
+- [[Minecraft Wiki]]
+- [[USGS copper]]
+
+%% End Waypoint %%

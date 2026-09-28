@@ -1,0 +1,8 @@
+- Copper production has declined over the long term
+- US copper production is well below the international average
+	- One reason is the rise of relatively low grade deposits being mined
+- US is crazy behind even in spite of it's low grade copper deposits
+- Cut-off grades (lowest they'll mine) may have an inverse relationship with the mineral price
+- We do not discover nearly as much copper deposits now as we did in the  70s and 80s
+- Head to ore grade ratio has fallen in recent decades from 1.5 to 1
+- 

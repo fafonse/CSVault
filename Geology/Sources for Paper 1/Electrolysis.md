@@ -1,0 +1,3 @@
+- Impure copper is the anode (+), a pure copper plate is the cathode (-).
+- Copper ions from the anode migrate to the cathode under a current
+- The copper cathode is left with very pure copper.
