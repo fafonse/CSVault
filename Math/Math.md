@@ -11,7 +11,6 @@
 	- [[Cryptography]]
 	- [[CS2100 Midterm Review]]
 	- [[Donut Problem]]
-	- [[Final Exam Study List]]
 	- [[Goldbach's Conjecture]]
 	- [[Greatest Common Divisors]]
 	- [[Half-Proofs]]
