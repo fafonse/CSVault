@@ -1,9 +1,11 @@
 %% Begin Waypoint %%
 - **Discreet Math**
+	- [[Additive Inverse]]
 	- [[Applications of Congruency]]
 	- [[Axiom]]
 	- [[Bad Proofs]]
 	- [[Combination and Permutation]]
+	- [[Complement]]
 	- [[Converting Problems]]
 	- [[Counting Problems]]
 	- [[Cryptography]]
@@ -13,6 +15,7 @@
 	- [[Goldbach's Conjecture]]
 	- [[Greatest Common Divisors]]
 	- [[Half-Proofs]]
+	- [[Integer]]
 	- [[Inverse Modulus]]
 	- [[Least Common Multiple]]
 	- [[Lexicographical Ordering]]
@@ -21,6 +24,8 @@
 	- [[Modular Arithmetic]]
 	- [[Monty Hall Problem]]
 	- [[Number Theory]]
+	- [[Odds Ratio]]
+	- [[Posterior]]
 	- [[Postulate]]
 	- [[Prepositions]]
 	- [[Prime Numbers]]
@@ -42,5 +47,6 @@
 	- [[Working with Shitty Graphs]]
 - **[[Statistics]]**
 - [[Discrete vs. Continuous]]
+- [[Moving Average]]
 
 %% End Waypoint %%

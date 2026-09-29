@@ -5,7 +5,7 @@
 
 %% Begin Landmark %%
 - [[Docker and Deployment]]
-- [[Refactoring]]
+- [[Software Engineering/Software Process/Software Maintenance/Refactoring]]
 - [[Scalability]]
 
 %% End Landmark %%

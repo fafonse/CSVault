@@ -16,3 +16,16 @@ Have a [[Dictionaries|hashmap]] that has dependents as they key and who they dep
 
 ## Formula Delegates
 Use [[Delegate|delegates]] for the lookup function for variables when evaluating formulas. For testing we can do a mock LookUp that just returns from a dictionary we have set for examples. Make sure that your formula class can handle the Lookup throwing an error.  
+
+## Spreadsheet storage
+We will store our cells using [[JSON]].
+- A cell is inputted as a formula if it starts with `=`
+- A cell is a number if it only contains a number
+- A cell is a variable if identified as such
+```json
+"cells":
+{
+	"A1": {"textForm":"x"},
+	"B1": {"textForm": "=5+5"}
+}
+```

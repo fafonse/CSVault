@@ -8,6 +8,7 @@ Notes specific to each language
 	- [[Exceptions]]
 	- [[Extensions]]
 	- [[Func]]
+	- [[JsonSerializer]]
 	- [[Namespaces]]
 	- [[Nullable Typing]]
 	- [[Out and Ref]]
@@ -36,7 +37,10 @@ Notes specific to each language
 	- [[Git Branching]]
 	- [[Merge Conflicts]]
 	- [[Merging Changes]]
+	- [[Pull Requests]]
+	- [[Pulling]]
 	- [[Rebase]]
+	- [[Repository]]
 - **[[Java]]**
 - **JavaScript**
 	- [[Arrays]]
@@ -48,17 +52,20 @@ Notes specific to each language
 	- [[Pass By Reference]]
 	- [[Pass By Value]]
 - **[[Python]]**
-- **Structured File Formats**
+- **[[Structured File Formats]]**
 	- [[CSV]]
 	- [[JSON]]
 	- [[XML]]
 - [[Assembly]]
 - [[Assert]]
+- [[Commit]]
 - [[CSS]]
+- [[GeoHash]]
 - [[Go]]
 - [[Guards]]
 - [[HTML]]
 - [[Kotlin]]
+- [[Machine Code]]
 - [[PHP]]
 - [[Polymorphism]]
 - [[Regular Expressions]]
