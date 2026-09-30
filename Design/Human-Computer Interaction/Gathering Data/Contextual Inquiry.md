@@ -1,5 +1,7 @@
 Typically, you don't have time for the [[Ethnography|classic]] way of learning about the users. Instead, we take a more active role in learning about how users work with designs.
 
+> NOT an interview. You do this while they're working, not as a conversation.
+
 - Ask *how*, and *what* to get the *why*
 - Shotgun questions about how people use their products
 	- People summarize, but we need details

@@ -8,7 +8,12 @@ How humans "talk" with highly complex computer systems.
 - **Gathering Data**
 	- [[Affinity Diagramming]]
 	- [[Contextual Inquiry]]
+	- [[Ethical Considerations]]
 	- [[Ethnography]]
+	- [[Expert Blindness]]
+	- [[Institutional Review Board]]
+	- [[Principles of Research with Human Subjects]]
+	- [[Survivorship Bias]]
 - **[[History]]**
 	- [[Bill Buxton]]
 - **[[Prototyping]]**

@@ -1,0 +1,10 @@
+- Justice
+	- Treat all fairly
+	- Share equitably burdens and benefits
+	- Fair selection of subjecst
+- Respect for Persons
+	- Informed Consent
+- Beneficence
+	- Assessment of Risk and Benefits
+	- Minimize risk
+	- Protect vulnerable
