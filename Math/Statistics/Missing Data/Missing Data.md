@@ -4,7 +4,9 @@ Solutions to missing data:
 %% Begin Waypoint %%
 - [[Dropping Values]]
 - [[Imputation]]
+- [[Last Observation Carried Forward]]
 - [[Replacing Missing Values]]
+- [[Time Series]]
 
 %% End Waypoint %%
 

@@ -19,6 +19,10 @@
 	- [[Probability Mass Function]]
 	- [[Standardization]]
 - **[[Missing Data]]**
+- **Regression**
+	- [[Linear Regression]]
+	- [[Logarithmic Regression]]
+	- [[Ordinary Least Squares]]
 - **Visuals**
 	- [[Box Plots]]
 	- [[Heatmaps]]
@@ -38,9 +42,6 @@
 - [[Generalized Linear Model]]
 - [[Hypothesis]]
 - [[Independent Events]]
-- [[Linear Regression]]
-- [[Logarithmic Regression]]
-- [[Ordinary Least Squares]]
 - [[Pivot Table]]
 - [[Point Estimate]]
 - [[Probability]]

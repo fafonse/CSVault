@@ -12,3 +12,10 @@ pd.pivot_table(data=imputed_age_df.dropna(subset=['age']), # < result
                aggfunc='mean') # find the mean of the age
 ```
 This can often be done with a [[Pivot Table]].
+
+> [!example] Missing data for dog barks
+> Lets say you have a dataset about dogs.
+> - You have dog breed, bark loudness, and weight.
+> - You have to impute for the bark loudness.
+> Starting with a cell that has a weight of 100lb and a doberman, you find the average of the other 100lb dobermans (lets say 60db).
+> Impute every cell within that weight+breed group with 60db (only for missing bark data).
