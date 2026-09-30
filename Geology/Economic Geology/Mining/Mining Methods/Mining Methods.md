@@ -1,0 +1,1 @@
+Different ways of getting your ore out. Depends on the host rock, ore, geography, and 

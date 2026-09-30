@@ -3,7 +3,7 @@ The study of the Earth.
 %% Begin Waypoint %%
 - **Economic Geology**
 	- **[[Mining]]**
-		- **Mining Methods**
+		- **[[Mining Methods]]**
 			- **Surface**
 				- [[Dredging]]
 				- [[Hydraulicking]]

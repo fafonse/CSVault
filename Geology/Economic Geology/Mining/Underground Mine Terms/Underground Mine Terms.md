@@ -1,7 +1,10 @@
 %% Begin Waypoint %%
+- **[[Hoists]]**
 - [[Drawbell]]
 - [[Drift]]
+- [[Escapeways]]
 - [[Intake]]
+- [[Ore Pass]]
 - [[Outtake]]
 - [[Raise]]
 - [[Rib]]

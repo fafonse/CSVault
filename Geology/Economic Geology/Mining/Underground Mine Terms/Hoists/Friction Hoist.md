@@ -1,0 +1,1 @@
+The rope is *not* attached to the drum. 
