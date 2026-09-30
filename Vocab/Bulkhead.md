@@ -1,0 +1,1 @@
+A man-made barrier, preventing stuff from leaving an area.

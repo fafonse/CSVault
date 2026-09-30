@@ -10,13 +10,20 @@ The study of the Earth.
 				- [[Leaching]]
 			- **Underground**
 				- [[Caving]]
+				- [[Shaft Drilling]]
+				- [[Shaft Sinking]]
 		- **[[Mining Unit Operatoins]]**
 			- [[Fragmentation]]
 			- [[Hauling]]
 			- [[Loading]]
 			- [[Mineral Processing]]
+		- **[[Underground Mine Terms]]**
 		- [[Mine]]
+		- [[Raise Boring]]
 		- [[Run-of-Mine]]
+		- [[Sump]]
+		- [[Tailings]]
+		- [[Tunnel Boring]]
 	- [[CRIRSCO]]
 	- [[Enrichment]]
 	- [[Geostatistics Terms]]

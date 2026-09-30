@@ -1,0 +1,1 @@
+Location where the [[Ore|ore]] is funneled for mucking.

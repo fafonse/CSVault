@@ -1,0 +1,1 @@
+Vertical openings from one working level to another. Typically opened from the bottom-up.

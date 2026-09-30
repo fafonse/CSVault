@@ -1,0 +1,1 @@
+The lowest part of the mine, where the water is going to inevitably collect.
