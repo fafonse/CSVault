@@ -5,6 +5,7 @@ The built-in [[JSON]] [[Serializing|serializer]] for C#.
 	- Ignore fields with `[JsonIgnore]`
 - Requires a default constructor for created classes to work
 - Change the field name with `[JsonProperty]`
+- By default it encodes for *safety*, replacing some special characters with unicode.
 
 
 ```c#

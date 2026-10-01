@@ -22,6 +22,9 @@ We will store our cells using [[JSON]].
 - A cell is inputted as a formula if it starts with `=`
 - A cell is a number if it only contains a number
 - A cell is a variable if identified as such
+- At least during testing, use the `UnsafeRelaxedJsonEncoder`
+	- Oh and WriteIndent = true
+- Make sure file paths work on Windows and Linux
 ```json
 "cells":
 {
@@ -29,3 +32,28 @@ We will store our cells using [[JSON]].
 	"B1": {"textForm": "=5+5"}
 }
 ```
+
+```C#
+try 
+{
+	// open file
+}
+catch ()
+{
+	// uh oh error
+}
+finally
+{
+	// close the file
+}
+```
+
+
+## GetCellValue Calculation
+Returns a list in the order it should be updated.
+*EX: Cells\[0\] needs to be evaluated before Cells\[1\]*
+
+- Order the SetCell to prioritize (double -> string -> Formula) objects.
+	- Use overloading
+
+## Make an indexer for spreadsheet
