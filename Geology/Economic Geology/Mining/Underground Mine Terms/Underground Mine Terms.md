@@ -3,6 +3,7 @@
 - [[Drawbell]]
 - [[Drift]]
 - [[Escapeways]]
+- [[Gob]]
 - [[Intake]]
 - [[Ore Pass]]
 - [[Outtake]]

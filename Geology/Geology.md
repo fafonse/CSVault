@@ -10,8 +10,13 @@ The study of the Earth.
 				- [[Leaching]]
 			- **Underground**
 				- [[Caving]]
+				- [[Cut and Fill]]
+				- [[Longwall]]
+				- [[Room and Pillar Mining]]
 				- [[Shaft Drilling]]
 				- [[Shaft Sinking]]
+				- [[Stope and Pillar]]
+				- [[Sublevel Stoping]]
 		- **[[Mining Unit Operatoins]]**
 			- [[Fragmentation]]
 			- [[Hauling]]
