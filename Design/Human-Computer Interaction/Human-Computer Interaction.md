@@ -5,7 +5,8 @@ aliases:
 How humans "talk" with highly complex computer systems.
 
 %% Begin Waypoint %%
-- **Gathering Data**
+- **[[Gathering Data]]**
+	- [[A B Testing]]
 	- [[Affinity Diagramming]]
 	- [[Contextual Inquiry]]
 	- [[Ethical Considerations]]
