@@ -1,4 +1,9 @@
 %% Begin Waypoint %%
+- **Data Reshaping**
+	- [[Melting]]
+	- [[Multi-index]]
+	- [[Pivot]]
+	- [[Stack]]
 - **[[Descriptive Statistics]]**
 - **[[Inferential Statistics]]**
 	- **[[Continuous Probability Distributions]]**
