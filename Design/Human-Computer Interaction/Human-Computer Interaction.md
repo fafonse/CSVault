@@ -19,7 +19,6 @@ How humans "talk" with highly complex computer systems.
 	- [[Bill Buxton]]
 - **[[Prototyping]]**
 	- [[Bodystorming]]
-	- [[Ideation]]
 	- [[Product Video]]
 	- [[Storyboarding]]
 	- [[User Testing]]

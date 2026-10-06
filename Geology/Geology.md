@@ -3,20 +3,13 @@ The study of the Earth.
 %% Begin Waypoint %%
 - **Economic Geology**
 	- **[[Mining]]**
-		- **[[Mining Methods]]**
+		- **Mining Methods**
 			- **Surface**
 				- [[Dredging]]
 				- [[Hydraulicking]]
 				- [[Leaching]]
 			- **Underground**
 				- [[Caving]]
-				- [[Cut and Fill]]
-				- [[Longwall]]
-				- [[Room and Pillar Mining]]
-				- [[Shaft Drilling]]
-				- [[Shaft Sinking]]
-				- [[Stope and Pillar]]
-				- [[Sublevel Stoping]]
 		- **[[Mining Unit Operatoins]]**
 			- [[Fragmentation]]
 			- [[Hauling]]
@@ -24,10 +17,7 @@ The study of the Earth.
 			- [[Mineral Processing]]
 		- **[[Underground Mine Terms]]**
 		- [[Mine]]
-		- [[Raise Boring]]
 		- [[Run-of-Mine]]
-		- [[Sump]]
-		- [[Tailings]]
 		- [[Tunnel Boring]]
 	- [[CRIRSCO]]
 	- [[Enrichment]]
