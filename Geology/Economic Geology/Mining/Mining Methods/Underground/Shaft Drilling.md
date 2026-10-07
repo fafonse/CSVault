@@ -1,6 +1,6 @@
 The mechanized version of [[Shaft Sinking]]. Think like a tunnel bore, but going straight down.
 
-> Attracive because it's so conventional, and also because [[Shaft Sinking]] is so hazardous
+> Attracive because it's so conventional, and also because [[Shaft Sinking]] is so hazardous.
 
 
 

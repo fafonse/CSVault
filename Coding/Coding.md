@@ -3,6 +3,7 @@ Notes specific to each language
 %% Begin Waypoint %%
 - **[[C Sharp]]**
 	- [[Actions]]
+	- [[Blazor]]
 	- [[Breakpoints]]
 	- [[Delegate]]
 	- [[Dispose]]

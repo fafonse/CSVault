@@ -10,3 +10,7 @@ Groups:
 - Mongolia (MPIGM)
 - Philippines (PMRCC)
 - Russia (OERN)
+
+## Standards
+CRIRSCO has a standard for what certain mineral deposits can be classified as.
+![600](https://www.researchgate.net/profile/John-Manrique/publication/346222796/figure/tbl11/AS:11431281127027576@1678916975803/Mapping-of-the-CRIRSCO-Template-to-UNFC-2.png)
