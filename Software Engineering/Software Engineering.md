@@ -133,13 +133,7 @@ Techniques and strategies for building effective software efficiently.
 		- [[Refactoring]]
 		- [[Scalability]]
 	- **[[Test-Driven Development]]**
-		- [[Closed Box Testing]]
 		- [[Code Coverage]]
-		- [[Incremental Testing]]
-		- [[Integration Testing]]
-		- [[Open Box Testing]]
-		- [[Regression Testing]]
-		- [[Smoke Tests]]
 		- [[Unit Tests]]
 	- [[Measuring Success]]
 	- [[Product Manager]]
@@ -148,9 +142,6 @@ Techniques and strategies for building effective software efficiently.
 	- [[Software Requirements]]
 	- [[Waterfall]]
 - [[Closure]]
-- [[Diagraming]]
 - [[Factors for Good Software]]
-- [[Refactoring]]
-- [[Serializing]]
 
 %% End Waypoint %%

@@ -1,5 +1,39 @@
 %% Begin Waypoint %%
-- **[[Discreet Math]]**
+- **Discreet Math**
+	- [[Applications of Congruency]]
+	- [[Axiom]]
+	- [[Bad Proofs]]
+	- [[Combination and Permutation]]
+	- [[Converting Problems]]
+	- [[Counting Problems]]
+	- [[Cryptography]]
+	- [[CS2100 Midterm Review]]
+	- [[Donut Problem]]
+	- [[Goldbach's Conjecture]]
+	- [[Greatest Common Divisors]]
+	- [[Half-Proofs]]
+	- [[Inverse Modulus]]
+	- [[Least Common Multiple]]
+	- [[Lexicographical Ordering]]
+	- [[Logical Operators]]
+	- [[Miller Test]]
+	- [[Modular Arithmetic]]
+	- [[Monty Hall Problem]]
+	- [[Number Theory]]
+	- [[Postulate]]
+	- [[Prepositions]]
+	- [[Prime Numbers]]
+	- [[Proofs]]
+	- [[Proposition]]
+	- [[Quantification (Discrete)]]
+	- [[Rational Numbers]]
+	- [[Relative Primes]]
+	- [[Relatively Prime]]
+	- [[Removing Bad Choices]]
+	- [[Set Operations]]
+	- [[Sum of Dice]]
+	- [[Test 2 Review]]
+	- [[Weighted Odds]]
 - **Misc**
 	- **Final Project**
 		- [[Final Project Notes]]
@@ -7,6 +41,5 @@
 	- [[Working with Shitty Graphs]]
 - **[[Statistics]]**
 - [[Discrete vs. Continuous]]
-- [[Moving Average]]
 
 %% End Waypoint %%
