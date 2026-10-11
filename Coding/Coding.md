@@ -43,6 +43,7 @@ Notes specific to each language
 	- [[Pull Requests]]
 	- [[Pulling]]
 	- [[Rebase]]
+	- [[Repository]]
 - **[[Java]]**
 - **JavaScript**
 	- [[Arrays]]
@@ -54,7 +55,7 @@ Notes specific to each language
 	- [[Pass By Reference]]
 	- [[Pass By Value]]
 - **[[Python]]**
-- **Structured File Formats**
+- **[[Structured File Formats]]**
 	- [[CSV]]
 	- [[JSON]]
 	- [[XML]]
@@ -67,6 +68,7 @@ Notes specific to each language
 - [[Guards]]
 - [[HTML]]
 - [[Kotlin]]
+- [[Machine Code]]
 - [[PHP]]
 - [[Polymorphism]]
 - [[Regular Expressions]]
