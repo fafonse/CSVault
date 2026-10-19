@@ -2,17 +2,20 @@ Notes specific to each language
 
 %% Begin Waypoint %%
 - **[[C Sharp]]**
-	- [[Actions]]
-	- [[Blazor]]
+	- **[[Blazor]]**
+		- [[ChangedEventArgs]]
+		- [[Element Reference]]
+	- **[[Closures]]**
 	- [[Breakpoints]]
-	- [[Delegate]]
 	- [[Dispose]]
+	- [[Event Handling]]
 	- [[Exceptions]]
 	- [[Extensions]]
-	- [[Func]]
 	- [[Indexers]]
 	- [[JsonSerializer]]
 	- [[Namespaces]]
+	- [[Null Coalescing]]
+	- [[Null Conditional]]
 	- [[Nullable Typing]]
 	- [[Out and Ref]]
 	- [[Out by Parameter]]
@@ -43,6 +46,7 @@ Notes specific to each language
 	- [[Pull Requests]]
 	- [[Pulling]]
 	- [[Rebase]]
+	- [[Repository]]
 - **[[Java]]**
 - **JavaScript**
 	- [[Arrays]]
@@ -54,7 +58,7 @@ Notes specific to each language
 	- [[Pass By Reference]]
 	- [[Pass By Value]]
 - **[[Python]]**
-- **Structured File Formats**
+- **[[Structured File Formats]]**
 	- [[CSV]]
 	- [[JSON]]
 	- [[XML]]
@@ -67,6 +71,7 @@ Notes specific to each language
 - [[Guards]]
 - [[HTML]]
 - [[Kotlin]]
+- [[Machine Code]]
 - [[PHP]]
 - [[Polymorphism]]
 - [[Regular Expressions]]
