@@ -19,6 +19,7 @@ How humans "talk" with highly complex computer systems.
 	- [[Bill Buxton]]
 - **[[Prototyping]]**
 	- [[Bodystorming]]
+	- [[Ideation]]
 	- [[Product Video]]
 	- [[Storyboarding]]
 	- [[User Testing]]
@@ -26,6 +27,8 @@ How humans "talk" with highly complex computer systems.
 	- [[Vision Video]]
 	- [[Wizard of Oz Technique]]
 - [[Batch Processing]]
+- [[Fitts Law]]
 - [[Functional Fixation]]
+- [[Human Factors]]
 
 %% End Waypoint %%
