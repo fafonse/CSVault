@@ -44,6 +44,7 @@
 - [[Data Quality Dimensions]]
 - [[Dummy Variable]]
 - [[Elastic Net Regularization]]
+- [[Factor Analysis]]
 - [[Generalized Linear Model]]
 - [[Hypothesis]]
 - [[Independent Events]]

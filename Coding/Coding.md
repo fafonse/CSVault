@@ -2,17 +2,20 @@ Notes specific to each language
 
 %% Begin Waypoint %%
 - **[[C Sharp]]**
-	- [[Actions]]
-	- [[Blazor]]
+	- **[[Blazor]]**
+		- [[ChangedEventArgs]]
+		- [[Element Reference]]
+	- **[[Closures]]**
 	- [[Breakpoints]]
-	- [[Delegate]]
 	- [[Dispose]]
+	- [[Event Handling]]
 	- [[Exceptions]]
 	- [[Extensions]]
-	- [[Func]]
 	- [[Indexers]]
 	- [[JsonSerializer]]
 	- [[Namespaces]]
+	- [[Null Coalescing]]
+	- [[Null Conditional]]
 	- [[Nullable Typing]]
 	- [[Out and Ref]]
 	- [[Out by Parameter]]
