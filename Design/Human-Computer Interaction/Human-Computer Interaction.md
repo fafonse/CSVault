@@ -8,6 +8,7 @@ How humans "talk" with highly complex computer systems.
 - **[[Gathering Data]]**
 	- [[A B Testing]]
 	- [[Affinity Diagramming]]
+	- [[Cognitive Walkthrough]]
 	- [[Contextual Inquiry]]
 	- [[Ethical Considerations]]
 	- [[Ethnography]]
@@ -30,5 +31,6 @@ How humans "talk" with highly complex computer systems.
 - [[Fitts Law]]
 - [[Functional Fixation]]
 - [[Human Factors]]
+- [[Steering Law]]
 
 %% End Waypoint %%
