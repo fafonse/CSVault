@@ -3,8 +3,8 @@ Methods you can add to already created classes without making a whole new derive
 > [[Syntactic Sugar]], but useful for readability for SE
 
 ## Creation
-
 - Create a static class to hold extension methods
+- Extensions methods must also be static
 ```c#
 static class StackExtensions
 {

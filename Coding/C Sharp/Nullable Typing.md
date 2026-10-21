@@ -1,5 +1,6 @@
 Every type in C# has a null and non-null type.
 By default, variables are non-nullable; use `?` to make it nullable.
+*This is only for compile-time warnings*.
 
 ```C#
 // nullable

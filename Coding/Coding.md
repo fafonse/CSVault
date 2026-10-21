@@ -17,6 +17,7 @@ Notes specific to each language
 	- [[Null Coalescing]]
 	- [[Null Conditional]]
 	- [[Nullable Typing]]
+	- [[Operator Overloading]]
 	- [[Out and Ref]]
 	- [[Out by Parameter]]
 	- [[Properties]]
