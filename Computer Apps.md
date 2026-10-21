@@ -1,0 +1,8 @@
+- Github Desktop
+- Jetbrains Rider
+- Obsidian
+- Vivaldi
+- Prism
+	- 1.19.4
+- Eclipse
+	- 

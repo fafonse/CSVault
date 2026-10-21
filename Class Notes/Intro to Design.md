@@ -6,6 +6,12 @@
 ## Sustainability Project
 - Find 3 companies innovating in sustainability
 	- Valve
+	- LuxBio.ca
+	- Cotopaxi
+- Find 3 articles related to your focus
+	- https://collections.lib.utah.edu/details?id=1750977&hl=Commuter+Survey+Report
+	- https://www.mckinsey.com/features/mckinsey-center-for-future-mobility/our-insights/the-micromobility-city-measuring-the-impact-of-greater-bicycle-use
+	- https://www.mckinsey.com/industries/infrastructure/our-insights/declining-bus-ridership-improving-the-efficiency-of-transit-networks
 
 Focus on "Sustainable Cities and Communities" and look at transportation infrastructure in SLC. 
 - Who is facing this problem?
