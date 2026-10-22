@@ -6,6 +6,7 @@ An important, yet commonly overlooked part of the [[Software Process|software pr
 
 %% Begin Landmark %%
 - [[Component Diagram]]
+- [[Diagraming]]
 - [[Flow Chart]]
 - [[Sequence Diagram]]
 

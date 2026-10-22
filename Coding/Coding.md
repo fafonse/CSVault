@@ -65,6 +65,7 @@ Notes specific to each language
 	- [[XML]]
 - [[Assembly]]
 - [[Assert]]
+- [[Closure]]
 - [[Commit]]
 - [[CSS]]
 - [[GeoHash]]
