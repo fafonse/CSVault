@@ -15,7 +15,7 @@ Parameters:
 - Width of the target
 	- Law was originally for *one-dimensional* problems
 
-$$\text{Index of Difficulty} = log_2(2*\frac{Distance}{Width})$$
+$$\text{Index of Difficulty} = log_2(\frac{Distance}{Width} + 1)$$
 
 ## Extensions / MT
 The law was later extended to include *MT*, or *movement time*.
