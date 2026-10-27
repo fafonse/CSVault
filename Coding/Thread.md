@@ -1,0 +1,1 @@
+A parallelized process. Only faster up until the point `threads > core count`.

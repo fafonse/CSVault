@@ -13,6 +13,7 @@ Notes specific to each language
 	- [[Extensions]]
 	- [[Indexers]]
 	- [[JsonSerializer]]
+	- [[Multi-Threading]]
 	- [[Namespaces]]
 	- [[Null Coalescing]]
 	- [[Null Conditional]]
@@ -81,6 +82,8 @@ Notes specific to each language
 - [[Stack and Heap]]
 - [[String Literal]]
 - [[Syntactic Sugar]]
+- [[Thread]]
+- [[Threading]]
 - [[Typescript]]
 
 %% End Waypoint %%

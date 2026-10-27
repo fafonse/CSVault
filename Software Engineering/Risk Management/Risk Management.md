@@ -1,13 +1,6 @@
 We have to run towards [[Risk|risk]], not away from it. That's how we get innovation.
 
 %% Begin Waypoint %%
-- **Chapter 2**
-	- **[[P2I2 Success Formula]]**
-		- [[People]]
-	- [[Force Field Analysis]]
-	- [[Project Management]]
-	- [[Risk Management Capability]]
-	- [[Risk Management Champion]]
 - **Chapter One**
 	- **[[Six-Discipline Model]]**
 		- [[Discover]]
@@ -16,7 +9,7 @@ We have to run towards [[Risk|risk]], not away from it. That's how we get innova
 		- [[Measure]]
 		- [[Plan]]
 		- [[Work]]
-	- [[Acceptable Risk]]
+		- [[Acceptable Risk]]
 	- [[Best Practice]]
 	- [[Chapter 1]]
 	- [[Consequences of Ignorance]]
@@ -25,5 +18,12 @@ We have to run towards [[Risk|risk]], not away from it. That's how we get innova
 	- [[Future Awareness]]
 	- [[Risk]]
 	- [[Software Risk]]
+- **Chapter Two**
+	- **[[P2I2 Success Formula]]**
+		- [[People]]
+	- [[Force Field Analysis]]
+	- [[Project Management]]
+	- [[Risk Management Capability]]
+	- [[Risk Management Champion]]
 
 %% End Waypoint %%
