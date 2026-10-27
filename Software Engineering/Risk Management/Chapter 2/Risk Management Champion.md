@@ -1,0 +1,1 @@
+A *change agent*: someone who maintains focus on the goal, strives to overcome obstacles, and refuses to give up when the going gets rough.

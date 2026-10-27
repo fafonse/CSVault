@@ -1,0 +1,1 @@
+[[Software Risk|Risk]] where we can live with the worst possible outcome.
