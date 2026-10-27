@@ -30,3 +30,14 @@ However, micro mobility is not just limited to bikes, but facilities must be mad
 
 
 ## Bus Efficiency
+Looking at increasing *bus* usage and efficiency. Article was published in 2019.
+
+- Busses have become sidelined by other modes of transportation
+	- Biking + other micro mobility
+	- Private/Rideshare programs widely available due to low fuel prices
+		- This article was before the current gas price (!!)
+- As bus ridership declines, leads to a decline in overall bus quality
+- Busses are useful in covering "cold spots" that are typically underserved by rail/metro
+- Busses decrease congestion, pollution, and can offer similar transport times to cars
+
+Busses do best integrated into current urban transportation systems, and are great at introducing public transit to areas that are underserved due to high infrastructure costs. Busses should also be prioritized in traffic (bus lanes, priority lanes, etc.) to make them more competitive to private vehicles.
