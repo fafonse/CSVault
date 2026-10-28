@@ -11,6 +11,9 @@
 - No debug/TODO/print statements in code
 
 ## GUI
-- Spreadsheet will be a private object in the SpreadsheetPage class
-- Set the cell clicked according to row/column using a [[Lambda]]
-	- Set the "selected cell" field to the coords
+Error Handling:
+- Cells will just show `Formula Error` 
+- Create a banner on the bottom showing complete error messages + their origins
+	- Banner can be minimized (?)
+	- Banner has a title showing number of errors
+		- EX: `Error Log (0)`, `Error Log (5)`

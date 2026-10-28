@@ -1,7 +1,7 @@
 Techniques and strategies for building effective software efficiently.
 
 %% Begin Waypoint %%
-- **API**
+- **[[API]]**
 	- **[[AWS]]**
 		- [[Cloudwatch]]
 		- [[Protocols]]
@@ -11,7 +11,8 @@ Techniques and strategies for building effective software efficiently.
 	- [[ES6]]
 	- [[React]]
 	- [[Redux]]
-	- [[RESTful]]
+	- [[REST]]
+	- [[Streaming API]]
 	- [[UML]]
 	- [[Vue]]
 	- [[Webpack]]

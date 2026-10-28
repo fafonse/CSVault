@@ -25,12 +25,19 @@ Focus on "Sustainable Cities and Communities" and look at transportation infrast
 - Why is it worth solving?
 	- More access to transportation, less polluting cars on the road, more efficient transportation
 
-- Audience
-	- 22 old
-	- Grew up in California, family moved to utah in 2019
-	- College student
-	- Rents apartment with 2 roommates
-	- Owns a F-150
-- Story
-	- Outdoor hobbies for past 2-3 years
-	- Mostly 
+### Interview Questions
+- How often do you use public transit?
+- What modes of transit do you use most often?
+- Why do you use (x) mode less often than others?
+- What do you know about current ongoing developement? Do you agree with current expansions?
+- What do you like most about public transit?
+- Immediately, what would you like changed right now?
+- What would you prefer to see more of? (Bike/bus/train infrastructure)
+
+#### Not using transit
+- Why?
+- What would you need to actually use it over your car?
+- Would you recommend it to others?
+- Expectations for timeliness/polish
+- Thoughts on public transit sharing the road with cars
+- Thoughts on cyclists?

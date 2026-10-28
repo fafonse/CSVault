@@ -58,6 +58,7 @@
 - [[Time Series Analysis]]
 - [[Time Series Decomposition]]
 - [[Time Series]]
+- [[VADER Sentiment]]
 - [[Variability in a Dataset]]
 
 %% End Waypoint %%

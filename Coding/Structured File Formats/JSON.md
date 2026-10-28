@@ -1,3 +1,7 @@
+---
+aliases:
+  - JavaScript Object Notation
+---
 A key-value pair sort of format.
 Like a [[Dictionaries|dictionary of dictionaries]].
 
