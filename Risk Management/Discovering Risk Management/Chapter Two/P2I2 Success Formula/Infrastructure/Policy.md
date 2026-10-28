@@ -1,0 +1,1 @@
+An administrative procedure or guiding principle designed to influence people to a particular course of action.

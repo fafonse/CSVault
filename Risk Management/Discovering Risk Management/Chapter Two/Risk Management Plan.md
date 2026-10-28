@@ -1,0 +1,1 @@
+A plan that maps [[Resources|resources]] to [[Activities|risk management activities]] to satisfy [[Software Requirements|project requirements]].

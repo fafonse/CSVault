@@ -4,7 +4,7 @@ aliases:
 ---
 The four critical success factors of risk management.
 
-- People
+- [[People]]
 	- Implementing the process according to the plan
 - Process
 	- Transforms uncertainty into [[Acceptable Risk|acceptable risk]]

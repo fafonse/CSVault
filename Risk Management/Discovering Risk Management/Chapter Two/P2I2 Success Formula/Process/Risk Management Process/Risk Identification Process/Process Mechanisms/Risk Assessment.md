@@ -1,0 +1,1 @@
+A rigorous method for risk identification that uses a [[Risk Checklist|structured risk checklist]] in an interview style meeting.

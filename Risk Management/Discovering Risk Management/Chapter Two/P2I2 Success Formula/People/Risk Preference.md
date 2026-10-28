@@ -1,0 +1,1 @@
+An attitude toward risk that varies among people. 

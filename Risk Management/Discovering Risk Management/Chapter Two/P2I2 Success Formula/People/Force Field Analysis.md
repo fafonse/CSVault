@@ -1,6 +1,7 @@
 A technique to help people understand the positive and negative aspects of change.
 
 - Create a table showing *Driving Forces* vs. *Restraining Forces*
+- *Driving forces* are your [[People#Motivation|motivation]] for overcoming *restraining forces*
 
 
 | Driving Forces                           | Restraining Forces             |

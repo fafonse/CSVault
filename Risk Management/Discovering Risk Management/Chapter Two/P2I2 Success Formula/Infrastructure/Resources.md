@@ -1,0 +1,5 @@
+- Budget
+- Schedule
+- Staff
+- Resolution Approaches
+	- Market research, redundant system components, etc.

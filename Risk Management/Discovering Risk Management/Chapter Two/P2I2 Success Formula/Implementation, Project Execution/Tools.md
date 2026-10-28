@@ -1,0 +1,1 @@
+Automated [[Mechanisms|mechanisms]] used to execute risk management effectively.

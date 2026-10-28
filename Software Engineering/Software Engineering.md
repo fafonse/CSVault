@@ -119,7 +119,6 @@ Techniques and strategies for building effective software efficiently.
 	- [[Socket]]
 	- [[Transmission Media]]
 	- [[Utilization]]
-- **[[Risk Management]]**
 - **[[Software Process]]**
 	- **[[AGILE]]**
 		- [[Business Context]]
@@ -142,7 +141,7 @@ Techniques and strategies for building effective software efficiently.
 		- [[Open Box Testing]]
 		- [[Regression Testing]]
 		- [[Smoke Tests]]
-		- [[Software Engineering/Software Process/Test-Driven Development/Unit Tests]]
+		- [[Unit Tests]]
 	- [[Liskov Substitution Principle]]
 	- [[Measuring Success]]
 	- [[Product Manager]]
