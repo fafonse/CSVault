@@ -16,6 +16,7 @@ How humans "talk" with highly complex computer systems.
 	- [[Institutional Review Board]]
 	- [[Principles of Research with Human Subjects]]
 	- [[Survivorship Bias]]
+- **[[Heuristics]]**
 - **[[History]]**
 	- [[Bill Buxton]]
 - **[[Prototyping]]**

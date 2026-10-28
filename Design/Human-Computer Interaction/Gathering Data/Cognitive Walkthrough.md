@@ -5,7 +5,7 @@ Like a *think aloud*, but done by you (usability expert).
 - Set up tasks real users might do
 - Can be cheap/fast (no recruiting necessary)
 
-> This is great, but actual [[Ethnography|users]] make better test subjects. You still might run into [[Expert Blindness]].
+> This is great, but actual [[Ethnography|users]] make better test subjects. You still might run into [[Expert Blindness]]. Also evaluators could run into issues with lacking specific *domain knowledge*. 
 
 
 ## How to do it
