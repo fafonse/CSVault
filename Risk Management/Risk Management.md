@@ -12,7 +12,6 @@ We have to run towards [[Risk|risk]], not away from it. That's how we get innova
 			- [[Work]]
 		- [[Acceptable Risk]]
 		- [[Best Practice]]
-		- [[Chapter 1]]
 		- [[Consequences of Ignorance]]
 		- [[Discipline]]
 		- [[Elaine M. Hall]]
