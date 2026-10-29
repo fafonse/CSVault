@@ -19,6 +19,7 @@ Notes specific to each language
 		- [[Extensions]]
 		- [[Indexers]]
 		- [[JsonSerializer]]
+		- [[Lock]]
 		- [[Multi-Threading]]
 		- [[Namespaces]]
 		- [[Null Coalescing]]
@@ -60,12 +61,17 @@ Notes specific to each language
 - **Memory Management**
 	- [[Pass By Reference]]
 	- [[Pass By Value]]
+- **[[Multithreading]]**
+	- [[Concurrency]]
+	- [[Context Switching]]
+	- [[Deadlock]]
+	- [[Mutex]]
+	- [[Parallelism]]
+	- [[Thread]]
 - **[[Structured File Formats]]**
 	- [[CSV]]
 	- [[JSON]]
 	- [[XML]]
-- **[[Threading]]**
-	- [[Thread]]
 - **VCS**
 	- **Git**
 		- [[Git Branching]]
