@@ -2,6 +2,7 @@
 
 %% Begin Waypoint %%
 - [[Heuristic Evaluation]]
+- [[Hick's Law]]
 - [[Nielson Heuristics]]
 
 %% End Waypoint %%
