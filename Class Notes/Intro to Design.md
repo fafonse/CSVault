@@ -7,8 +7,8 @@
 - Find 5 companies innovating in sustainability
 	- Green Bike Utah
 	- Greenstar Bikes
-	- BYD (electric busses)
 	- Voda Landscape Planning
+	- Luxbio
 	- Siemens (trams/trains/LRT)
 Focus on "Sustainable Cities and Communities" and look at transportation infrastructure in SLC. 
 - Who is facing this problem?
@@ -26,7 +26,7 @@ Focus on "Sustainable Cities and Communities" and look at transportation infrast
 - How often do you use public transit?
 - What modes of transit do you use most often?
 - Why do you use (x) mode less often than others?
-- What do you know about current ongoing developement? Do you agree with current expansions?
+- What do you know about current ongoing development? Do you agree with current expansions?
 - What do you like most about public transit?
 - Immediately, what would you like changed right now?
 - What would you prefer to see more of? (Bike/bus/train infrastructure)
