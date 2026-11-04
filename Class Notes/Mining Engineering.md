@@ -23,3 +23,64 @@
 - Residential windows are around 3-6mm
 - 3.864 cubic meters of glass
 	- 9660kg of glass
+**Gray Concrete**:
+- 1482 original blocks
+- Support walls are typically 10-12 inches thick
+- 444.6 cubic meters
+**Smooth Stone**:
+- 867 original blocks
+- Patio floorings are 4 inches thick on average, I'm saying 5 inches since it has extra tables and heating elements on it.
+- 110.109 cubic meters of concrete
+**White Concrete**:
+- 425 original blocks
+- Used mostly for decoration or balcony floors
+- Assuming the concrete walls/floors are only 1/2 foot thick
+- 63.75 cubic meters of concrete
+**Smooth Sandstone**:
+- 296 original blocks
+- Used for balcony flooring
+- Assuming a 1/2 ft thickness
+- 44.4 cubic meters of concrete
+**Mud Bricks**:
+- 153 blocks
+- Represent the decorative wall on the south end of the building
+- 153 cubic meters of sandstone
+	- Boulders are likely to be made of sandstone
+	- Local mountains are a lot of sandstone, and it's a common landscaping boulder type
+**Birch Fence**:
+- 144 blocks
+- Represents metal fencing on the end of patios
+- On the lighter end, fencing is 8kg a meter
+- 1.27 tons aluminum
+**Smooth Sandstone Slab**:
+- 74 blocks
+- Patio flooring, 1/2 ft thickness
+- 11.27 cubic meters of concrete
+**Quartz Bricks**:
+- 52 blocks
+- Decorative concrete
+- 10.56 cubic meters of concrete
+**Cut Sandstone Slab**:
+- 40 blocks
+- Patio flooring, 1/2ft thickness
+- 8.128 cubic meters of concrete
+**Polished Tuff Stairs**:
+- 32 blocks
+- Indoor stairs
+- [This website](https://mystaircalculator.com/calculators/build-materials/steel-stair-calculator) shows that a single flight of my stairs is 272 lb of steel, and I have 3 flights.
+- 816 lb of steel
+**Dark Oak Trapdoor**:
+- 28 blocks
+- Represents metal fencing on end of patios
+- On the lighter end, fencing is 8kg a meter
+- 224 kg aluminum
+**Terracotta**:
+- 26 blocks
+- Each column represents a steel I-beam
+- 3334 kg of steel
+**Polished Granite**:
+- 21 blocks
+**Smooth Sandstone Stairs**:
+- 19 blocks
+**Iron Bars**:
+- 18 blocks

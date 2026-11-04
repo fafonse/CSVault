@@ -48,6 +48,7 @@
 - [[Generalized Linear Model]]
 - [[Hypothesis]]
 - [[Independent Events]]
+- [[Joins]]
 - [[Pivot Table]]
 - [[Point Estimate]]
 - [[Probability]]
