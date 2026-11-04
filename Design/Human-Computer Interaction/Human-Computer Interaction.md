@@ -32,6 +32,7 @@ How humans "talk" with highly complex computer systems.
 - [[Fitts Law]]
 - [[Functional Fixation]]
 - [[Human Factors]]
+- [[Human Model Processor]]
 - [[Steering Law]]
 
 %% End Waypoint %%

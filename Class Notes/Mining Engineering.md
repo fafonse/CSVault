@@ -80,6 +80,7 @@
 - 3334 kg of steel
 **Polished Granite**:
 - 21 blocks
+	- Used for 
 **Smooth Sandstone Stairs**:
 - 19 blocks
 **Iron Bars**:
