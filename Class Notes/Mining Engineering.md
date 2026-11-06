@@ -80,8 +80,40 @@
 - 3334 kg of steel
 **Polished Granite**:
 - 21 blocks
-	- Used for 
+	- Used for bricks on the southern exit
+	- 42 kg
+	- Each meter squared is 50 bricks, each weighs 2kg
 **Smooth Sandstone Stairs**:
 - 19 blocks
+	- Used for floating staircase on south facing wall
+	- Assuming each stair block is only 1/4 m^3 of material
+	- 4.75 cubic meters
+	- 2850 kg
 **Iron Bars**:
 - 18 blocks
+- Used for fencing
+- 144 kg of aluminum
+
+Totals:
+- 8,750.708 cubic meters of concrete
+	- 2400 kg m/3
+	- **23,148 t**
+- 3.67 steel tons
+	- Steel usually makes up ~1.5% of building concrete on average (rebar)
+		- 131.26 extra tons
+		- **134.93t** 
+- Gypsum
+	- A single 4x12 sheet is 4.459 meters squared
+	- Entire interior is roughly 12,454 meters squared
+	- 2,793.002915451895043731778425656 sheets
+	- Average drywall is 1/2 inch thick or 0.0127 meters thick
+	- Include 10% waste factor
+	- 173.98 cubic meters of gypsum
+	- **403.63 t of gypsum**
+- Aluminum
+	- 1.67 tons of aluminum
+- Copper
+	- Average single family home has 439 lb of copper (2100sq ft)
+	- Union has 21,394 square meters of floor (230,283.1 sqf)
+	- 48,140 lbs of copper
+	- **24.07t of copper**
