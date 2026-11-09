@@ -114,6 +114,6 @@ Totals:
 	- 1.67 tons of aluminum
 - Copper
 	- Average single family home has 439 lb of copper (2100sq ft)
-	- Union has 21,394 square meters of floor (230,283.1 sqf)
-	- 48,140 lbs of copper
+	- Union has 201,750 sqf
+	- 42,175 lbs of copper
 	- **24.07t of copper**
