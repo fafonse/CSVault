@@ -1,5 +1,17 @@
-A bunch of [[Series|series]] stuck together into a table.
+Panda's representation of a table; a collection of [[Series|series]]. 
 
-## Accessing Values
+```python
+data = {'Name': ["John", "Tess", "Kellen"],
+		'Gender': ["Male", "Female", "Male"]}
+df = pd.DataFrame(data)
+```
+## Accessing Elements
+There are two main methods for accessing individual elements, `iloc` and `loc`. 
 
-Use `iloc` or `loc` to access the rows in your table.
+- `iloc` grabs an element according to it's *index*
+- `loc` grabs an element based off a *conditional*
+
+```python
+df.iloc[0] # returns the entry for "John"
+df.loc[df]
+```

@@ -14,6 +14,7 @@ How humans "talk" with highly complex computer systems.
 	- [[Ethnography]]
 	- [[Expert Blindness]]
 	- [[Institutional Review Board]]
+	- [[Measurement Paradigms]]
 	- [[Principles of Research with Human Subjects]]
 	- [[Survivorship Bias]]
 - **[[Heuristics]]**
@@ -33,6 +34,7 @@ How humans "talk" with highly complex computer systems.
 - [[Functional Fixation]]
 - [[Human Factors]]
 - [[Human Model Processor]]
+- [[Mental Models]]
 - [[Steering Law]]
 
 %% End Waypoint %%

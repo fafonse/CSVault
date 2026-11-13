@@ -1,5 +1,6 @@
 %% Begin Waypoint %%
 - **Data Reshaping**
+	- [[Groupby]]
 	- [[Melting]]
 	- [[Multi-index]]
 	- [[Pivot]]

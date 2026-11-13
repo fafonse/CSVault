@@ -8,6 +8,7 @@ import pandas as pd
 
 %% Begin Waypoint %%
 - [[Data Frame]]
+- [[Groupby]]
 - [[Series]]
 
 %% End Waypoint %%
