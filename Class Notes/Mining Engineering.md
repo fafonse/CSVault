@@ -15,8 +15,8 @@
 - Exterior walls are typically 8-10 inches thick
 	- Assuming concrete as well, just look at the inside of the building
 - 0.009 cubic inches of brick
-	- 25,200 kg
-	- 27.77 tons
+	- 1,765 kg/m3, assuming it's *red-facing* brick
+	- 1,122 tons
 	- 5767 original blocks
 **Glass**:
 - 3863 original blocks
@@ -117,3 +117,11 @@ Totals:
 	- Union has 21,394 square meters of floor (230,283.1 sqf)
 	- 48,140 lbs of copper
 	- **24.07t of copper**
+- Composites
+	- We'll say 1 ton, as aluminum is 1.67 tons
+	- My building does not have any explicitly "plastic" blocks
+- Other minerals
+	- 153 cubic meters of sandstone
+		- Weighs 2400kg/m^3 
+		- 367,200 kg
+		- 404 tons
