@@ -20,6 +20,7 @@
 		- [[T Distribution]]
 		- [[Z-Test]]
 	- [[Cumulative Distribution Function]]
+	- [[Internal Validity]]
 	- [[Percent-Point Function]]
 	- [[Probability Distribution]]
 	- [[Probability Mass Function]]
