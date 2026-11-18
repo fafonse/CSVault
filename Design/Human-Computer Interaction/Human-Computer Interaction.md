@@ -10,6 +10,7 @@ How humans "talk" with highly complex computer systems.
 	- [[Affinity Diagramming]]
 	- [[Cognitive Walkthrough]]
 	- [[Contextual Inquiry]]
+	- [[Crowd-Sourcing]]
 	- [[Day Reconstruction]]
 	- [[Diary Study]]
 	- [[Elicitation Study]]
@@ -20,6 +21,8 @@ How humans "talk" with highly complex computer systems.
 	- [[Measurement Paradigms]]
 	- [[Principles of Research with Human Subjects]]
 	- [[Survivorship Bias]]
+	- [[Think Out Loud]]
+	- [[Usability Aspect Report]]
 - **[[Heuristics]]**
 - **[[History]]**
 	- [[Bill Buxton]]

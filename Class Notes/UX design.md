@@ -9,10 +9,11 @@
 - Accuracy must be above 95%
 - Character set is only a-z, no caps/numbers/puncuation
 
-Ideas: 
-- Radial keyboard, decrease sensitivity as user gets to edge of circle
-- Scroll through letters
-- Circle Scroll
-	- Scrolling a full circle left/right changes "pages", reducing amount of inputs on screen at a time
-- Writing
-	- Use finger for handwriting, using letter recognition
+**HW5**
+- Identify interviewer [[Think Out Loud|thinkaloud]] practices
+	- Two good, four bad
+	- For each practice, describe the interviewer's actions and their impact on the process
+- Identify UARs
+	- Sixe software usability aspects
+		- Two positie, four challenging (could be improved)
+	- Complete 2 [[Usability Aspect Report|UARs]] using the provided template
